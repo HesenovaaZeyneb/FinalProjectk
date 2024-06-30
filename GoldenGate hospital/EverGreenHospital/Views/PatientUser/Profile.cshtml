@@ -1,0 +1,195 @@
+﻿@model UserVm
+
+<!-- Start -->
+<section class="bg-hero">
+	<div class="container">
+		<div class="row mt-lg-5">
+			<div class="col-md-6 col-lg-4">
+				<div class="rounded shadow overflow-hidden sticky-bar">
+					<div class="card border-0">
+						<img src="~/assets/images/bg/bg-profile.jpg" class="img-fluid" alt="">
+					</div>
+
+					<div class="text-center avatar-profile margin-nagative mt-n5 position-relative pb-4 border-bottom">
+						<img src="~/assets/images/client/09.jpg" class="rounded-circle shadow-md avatar avatar-md-md" alt="">
+						<h5 class="mt-3 mb-1">@User.Identity.Name</h5>
+						<p class="text-muted mb-0"></p>
+					</div>
+
+					<div class="list-unstyled p-4">
+						<div class="progress-box mb-4">
+						</div><!--end process box-->
+						@*MUELLIMDEN SORUSULACAQ MESLEHET ALINACAQ*@
+						@* <div class="d-flex align-items-center mt-2">
+						<i class="uil uil-user align-text-bottom text-primary h5 mb-0 me-2"></i>
+						<h6 class="mb-0">Gender</h6>
+						<p class="text-muted mb-0 ms-2">Female</p>
+						</div> *@
+						<form asp-action="Profile" asp-controller="PatientUser">
+							<input type="hidden" name="userId" value="@Model.Id" />
+							<div class="d-flex align-items-center mt-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-date" viewBox="0 0 16 16">
+									<path d="M6.445 11.688V6.354h-.633A13 13 0 0 0 4.5 7.16v.695c.375-.257.969-.62 1.258-.777h.012v4.61zm1.188-1.305c.047.64.594 1.406 1.703 1.406 1.258 0 2-1.066 2-2.871 0-1.934-.781-2.668-1.953-2.668-.926 0-1.797.672-1.797 1.809 0 1.16.824 1.77 1.676 1.77.746 0 1.23-.376 1.383-.79h.027c-.004 1.316-.461 2.164-1.305 2.164-.664 0-1.008-.45-1.05-.82zm2.953-2.317c0 .696-.559 1.18-1.184 1.18-.601 0-1.144-.383-1.144-1.2 0-.823.582-1.21 1.168-1.21.633 0 1.16.398 1.16 1.23" />
+									<path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z" />
+								</svg>
+								<h6 class="mb-0">Birthday</h6>
+								<p class="text-muted mb-0 ms-2">@Model.BirthDay</p>
+							</div>
+
+							<div class="d-flex align-items-center mt-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+									<path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z" />
+								</svg>
+								<h6 class="mb-0">Phone No.</h6>
+								<p class="text-muted mb-0 ms-2">@Model.PhoneNumber</p>
+							</div>
+
+							<div class="d-flex align-items-center mt-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
+									<path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z" />
+								</svg>
+								<h6 class="mb-0">Address</h6>
+								<p class="text-muted mb-0 ms-2">@Model.Adress</p>
+							</div>
+
+							
+
+						</form>
+					</div>
+				</div>
+			</div><!--end col-->
+
+			<div class="col-lg-8 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+				<div class="card border-0 shadow overflow-hidden">
+					<ul class="nav nav-pills nav-justified flex-column flex-sm-row rounded-0 shadow overflow-hidden bg-light mb-0" id="pills-tab" role="tablist">
+						<li class="nav-item">
+							<a class="nav-link rounded-0 active" id="overview-tab" data-bs-toggle="pill" href="#pills-overview" role="tab" aria-controls="pills-overview" aria-selected="false">
+								<div class="text-center pt-1 pb-1">
+									<h4 class="title fw-normal mb-0">Profile</h4>
+								</div>
+							</a><!--end nav link-->
+						</li><!--end nav item-->
+
+						<li class="nav-item">
+							<a class="nav-link rounded-0" id="experience-tab" data-bs-toggle="pill" href="#pills-experience" role="tab" aria-controls="pills-experience" aria-selected="false">
+								<div class="text-center pt-1 pb-1">
+									<h4 class="title fw-normal mb-0">Profile Settings</h4>
+								</div>
+							</a><!--end nav link-->
+						</li><!--end nav item-->
+					</ul>
+
+					<div class="tab-content p-4" id="pills-tabContent">
+						<div class="tab-pane fade show active" id="pills-overview" role="tabpanel" aria-labelledby="overview-tab">
+
+							<div class="row">
+								<div class="col-lg-6 col-12 mt-4">
+									<h5>Appointment List</h5>
+
+									@foreach (Appointment item in ViewBag.Appointment)
+									{
+										<div class="d-flex justify-content-center align-items-center rounded p-3 shadow mt-3">
+											
+											<div class="flex-1 overflow-hidden ms-2">
+												<h6 class="mb-0">@item.Department.Name</h6>
+												<p class="text-muted mb-0 text-truncate small">Dr.@item.Doctors.FullName</p>
+											</div>
+											<div class="flex-1 overflow-hidden ms-2">
+												<h6 class="mb-0"></h6>
+												<p class="text-muted mb-0 text-truncate small">@item.Comment</p>
+											</div>
+											<span class="mb-0">@item.VisitDate</span>
+
+										</div>
+									}
+
+									
+								</div>
+
+
+							</div>
+
+							<h5 class="mb-0 mt-4 pt-2">Contact us</h5>
+							<div class="row">
+								<div class="col-md-12 col-lg-6 mt-4">
+									<div class="card features feature-primary text-center border-0 p-4 rounded shadow">
+										<div class="icon text-center rounded-lg mx-auto">
+											<i class="uil uil-message align-middle h3"></i>
+										</div>
+										<div class="card-body p-0 mt-3">
+											<a href="#" class="title text-dark h6 d-block">New Messages</a>
+											<a href="#" class="link">Read more <i class="ri-arrow-right-line align-middle"></i></a>
+										</div>
+									</div>
+								</div><!--end col-->
+
+
+							</div><!--end row-->
+						</div>
+
+						<div class="tab-pane fade" id="pills-experience" role="tabpanel" aria-labelledby="experience-tab">
+							<h5 class="mb-0">Personal Information :</h5>
+
+							<form class="mt-4" asp-action="ProfileUpdate" asp-controller="PatientUser">
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=Name class="form-label">First Name</label>
+											<input asp-for=Name class="form-control" placeholder="First Name :">
+										</div>
+									</div><!--end col-->
+
+									<div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=Surname class="form-label">Last Name</label>
+											<input asp-for=Surname class="form-control" placeholder="Last Name :">
+										</div>
+									</div><!--end col-->
+
+									<div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=Email class="form-label">Your Email</label>
+											<input asp-for=Email name="email" class="form-control" placeholder="Your email :">
+										</div>
+									</div><!--end col-->
+									<div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=Adress class="form-label">Adress</label>
+											<input asp-for=Adress name="Adress" class="form-control" placeholder="Adress :">
+										</div>
+									</div><!--end col-->
+									<div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=PhoneNumber class="form-label">Phone no.</label>
+											<input asp-for=PhoneNumber class="form-control" placeholder="Phone no. :">
+										</div>
+									</div><!--end col-->
+									@* <div class="col-lg-6">
+										<div class="mb-3">
+											<label asp-for=BloodGroup class="form-label">First Name</label>
+											<input asp-for=BloodGroup class="form-control" placeholder="BloodGroup :">
+										</div>
+									</div><!--end col--> *@
+									<div class="col-md-6">
+										<div class="mb-3">
+											<label asp-for=BirthDay class="form-label"> Birthday : </label>
+											<input asp-for=BirthDay class="form-control start" placeholder="Select date :">
+										</div>
+									</div><!--end col-->
+
+								</div><!--end row-->
+
+								<div class="row">
+									<div class="col-sm-12">
+										<input type="submit" id="submit" name="send" class="btn btn-primary" value="Save changes">
+									</div><!--end col-->
+								</div><!--end row-->
+							</form><!--end form-->
+						</div>
+					</div>
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+	</div><!--end container-->
+</section><!--end section-->
+<!-- End -->

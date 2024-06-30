@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0C989053-5757-4AC6-B9A0-CD65B0E3BAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{2A3ACAB3-7F32-46DE-97A1-62CCF665AD57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{CBF7E863-393D-46A1-9FCA-C5814E873C43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evergreen_Application", "Evergreen_Application\Evergreen_Application.csproj", "{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evergreen_Domain", "Evergreen_Domain\Evergreen_Domain.csproj", "{11F67E19-8091-473E-9574-2997D6A63EA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evergreen_Persistence", "Evergreen_Persistence\Evergreen_Persistence.csproj", "{879C3984-247E-46DD-B80D-CECD90750C8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverGreenHospital", "EverGreenHospital\EverGreenHospital.csproj", "{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evergreen_Infracture", "Evergreen_Infracture\Evergreen_Infracture.csproj", "{B6945E22-B786-4F85-ACAE-B35AC009C3D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F67E19-8091-473E-9574-2997D6A63EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F67E19-8091-473E-9574-2997D6A63EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F67E19-8091-473E-9574-2997D6A63EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F67E19-8091-473E-9574-2997D6A63EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879C3984-247E-46DD-B80D-CECD90750C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879C3984-247E-46DD-B80D-CECD90750C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879C3984-247E-46DD-B80D-CECD90750C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879C3984-247E-46DD-B80D-CECD90750C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6945E22-B786-4F85-ACAE-B35AC009C3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6945E22-B786-4F85-ACAE-B35AC009C3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6945E22-B786-4F85-ACAE-B35AC009C3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6945E22-B786-4F85-ACAE-B35AC009C3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDAD2E6F-4140-4F7B-9C57-544D315CBCC6} = {0C989053-5757-4AC6-B9A0-CD65B0E3BAC7}
+		{11F67E19-8091-473E-9574-2997D6A63EA1} = {0C989053-5757-4AC6-B9A0-CD65B0E3BAC7}
+		{879C3984-247E-46DD-B80D-CECD90750C8B} = {2A3ACAB3-7F32-46DE-97A1-62CCF665AD57}
+		{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8} = {CBF7E863-393D-46A1-9FCA-C5814E873C43}
+		{B6945E22-B786-4F85-ACAE-B35AC009C3D2} = {2A3ACAB3-7F32-46DE-97A1-62CCF665AD57}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639CD560-9BB8-443B-BEC6-A396A5CC5B78}
+	EndGlobalSection
+EndGlobal

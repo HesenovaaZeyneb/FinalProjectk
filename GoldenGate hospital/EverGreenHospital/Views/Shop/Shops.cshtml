@@ -1,0 +1,243 @@
+﻿@model ShopVm
+
+<!-- Start Hero -->
+<section class="home-slider position-relative">
+	<div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<div class="bg-half-170 d-table align-items-center w-100" style="background:url('../assets/images/bg/pharm01.jpg') center center;">
+					<div class="bg-overlay bg-overlay-dark"></div>
+					<div class="container">
+						<div class="row mt-5">
+							<div class="col-lg-12">
+								<div class="heading-title">
+									<h1 class="fw-bold mb-4">Doctors Prescribe <br> Meko Products</h1>
+									<p class="para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+									<div class="mt-4 pt-2">
+										<a href="#" class="btn btn-primary">Shop now</a>
+									</div>
+								</div>
+							</div><!--end col-->
+						</div><!--end row-->
+					</div><!--end container-->
+				</div>
+			</div>
+
+			<div class="carousel-item">
+				<div class="bg-half-170 d-table align-items-center w-100" style="background:url('../assets/images/bg/pharm02.jpg') center center;">
+					<div class="bg-overlay bg-overlay-dark"></div>
+					<div class="container">
+						<div class="row mt-5">
+							<div class="col-lg-12">
+								<div class="heading-title">
+									<h1 class="fw-bold mb-4">Virus Protection <br> Gears 15% Off</h1>
+									<p class="para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+									<div class="mt-4 pt-2">
+										<a href="#" class="btn btn-primary">Shop now</a>
+									</div>
+								</div>
+							</div><!--end col-->
+						</div><!--end row-->
+					</div><!--end container-->
+				</div>
+			</div>
+
+			<div class="carousel-item">
+				<div class="bg-half-170 d-table align-items-center w-100" style="background:url('../assets/images/bg/pharm03.jpg') center center;">
+					<div class="bg-overlay bg-overlay-dark"></div>
+					<div class="container">
+						<div class="row mt-5">
+							<div class="col-lg-12">
+								<div class="heading-title">
+									<h1 class="fw-bold mb-4">Cosmetics Body <br> Lotion</h1>
+									<p class="para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+									<div class="mt-4 pt-2">
+										<a href="#" class="btn btn-primary">Shop now</a>
+									</div>
+								</div>
+							</div><!--end col-->
+						</div><!--end row-->
+					</div><!--end container-->
+				</div>
+			</div>
+		</div>
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="1" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="2" aria-label="Slide 3"></button>
+		</div>
+	</div>
+</section><!--end section-->
+<!-- End Hero -->
+<!-- Start -->
+<section class="section">
+	<!-- Start Most Viewed Products -->
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<h5 class="mb-0">Most Viewed Products</h5>
+			</div><!--end col-->
+		</div><!--end row-->
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="col-xl-12 col-lg-4 order-2 order-lg-1 pt-5 pt-lg-0">
+						<div class="sidebar-area">
+					<form asp-action="Shops" asp-controller="Shop" style="width:79%; display:inline-block"
+						  asp-route-categoryId="@Model.CategoryId"
+						  asp-route-order="@Model.Order">
+						<input style="width: 40%;
+                                      margin-left: -14px;
+                                      display: inline-block;"
+							   class="form-control " name="search" type="search" placeholder="Search" aria-label="Search" value="@(Model.Search==null?"":Model.Search)">
+
+						<button class="btn btn-outline-success" type="submit">Search</button>
+					</form>
+
+
+					<form asp-action="Shops" asp-controller="Shop" style="width:%; display:inline-block"
+						  asp-route-categoryId="@Model.CategoryId"
+						  asp-route-search="@Model.Search">
+						<select name="order" onchange="this.form.submit()" class="form-select" aria-label="Default select example">
+
+							<option value="">Sort by Default</option>
+							<option value="1">Sort by Price</option>
+							<option value="2">Sort by Latest</option>
+							<option value="3">Sort by Name</option>
+						</select>
+					</form>
+
+
+
+					
+							<a asp-action="Shops"
+							   asp-controller="Shop" class="mb-0"
+							   asp-route-order="@Model.Order"
+							   asp-route-search="@Model.Search" style="color:black" mb-4">Categories</a>
+							<ul class="widgets-category">
+								@foreach (var item in Model.categories)
+								{
+									<li>
+										<a asp-action="Shops" asp-controller="Shop"
+										   asp-route-categoryId="@item.Id"
+										   asp-route-order="@Model.Order"
+										   asp-route-search="@Model.Search" style="color:black">
+											<i class="fa fa-chevron-right"></i>
+											@item.Name <span>(@item.Products.Count)</span>
+										</a>
+									</li>
+								}
+
+							</ul>
+						</div>
+					</div>
+
+
+				</div>
+
+
+
+			</div>
+		</div>
+
+
+
+		<div class="row">
+			@foreach (var item in Model.products)
+			{
+				<div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+					<div class="card shop-list border-0">
+						<ul class="label list-unstyled mb-0">
+							<li><a href="javascript:void(0)" class="badge rounded-pill badge-success">Featured</a></li>
+						</ul>
+						<div class="shop-image position-relative overflow-hidden rounded shadow">
+							<a asp-action="Detail" asp-controller="Shop" asp-route-id="@item.Id"><img src="~/Upload/Product/@item.ImgUrl" class="img-fluid" alt=""></a>
+							<ul class="list-unstyled shop-icons">
+								<li><a asp-action="AddWhisles" asp-controller="Whistles" asp-route-id="@item.Id" class="btn btn-icon btn-pills btn-soft-danger"><i data-feather="heart" class="icons"></i></a></li>
+								<li class="mt-2"><a href="#" class="btn btn-icon btn-pills btn-soft-primary"><i data-feather="eye" class="icons"></i></a></li>
+								<li class="mt-2"><a asp-action="AddBasket" asp-controller="Basket" asp-route-id="@item.Id" class="btn btn-icon btn-pills btn-soft-warning"><i data-feather="shopping-cart" class="icons"></i></a></li>
+							</ul>
+
+							<div class="qty-icons">
+								<button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" class="btn btn-pills btn-icon btn-primary minus">-</button>
+								<input min="0" name="quantity" value="0" type="number" class="btn btn-pills btn-icon btn-primary qty-btn quantity">
+								<button onclick="this.parentNode.querySelector('input[type=number]').stepUp()" class="btn btn-pills btn-icon btn-primary plus">+</button>
+							</div>
+						</div>
+						<div class="card-body content pt-4 p-2">
+							<a asp-action="Detail" asp-controller="Shop" class="text-dark product-name h6">@item.Name</a>
+							<div class="d-flex justify-content-between mt-1">
+								<h6 class="text-muted small font-italic mb-0 mt-1">$@item.Price </h6>
+								<ul class="list-unstyled text-warning mb-0">
+									<li class="list-inline-item"><i class="mdi mdi-star"></i></li>
+									<li class="list-inline-item"><i class="mdi mdi-star"></i></li>
+									<li class="list-inline-item"><i class="mdi mdi-star"></i></li>
+									<li class="list-inline-item"><i class="mdi mdi-star"></i></li>
+									<li class="list-inline-item"><i class="mdi mdi-star"></i></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!--end col-->
+			}
+		</div><!--end row-->
+	</div><!--end container-->
+	@* <div class="container mt-100 mt-60">
+	<div class="row">
+	<div class="col-12">
+	<a asp-action="Shops"
+	asp-controller="Shop" class="mb-0"
+	asp-route-order="@Model.Order"
+	asp-route-search="@Model.Search">Categories</a>
+	</div><!--end col-->
+	</div><!--end row-->
+
+	<div class="row">
+	<div class="col-lg-12 mt-4 pt-2">
+	<div class="slider-range-four">
+
+	@foreach (var item in Model.categories)
+	{
+	<div class="tiny-slide">
+	<a asp-action="Shops" asp-controller="Shop"
+	asp-route-categoryId="@item.Id"
+	asp-route-order="@Model.Order"
+	asp-route-search="@Model.Search"
+	class="card pharpachy-categories border-0 rounded overflow-hidden">
+
+	<div class="category-title" style="position:relative; line-height:4 !important;">
+	<span class="text-dark title-white"><span class="h5">@item.Name<span> (@item.Products.Count) </span></span></span>
+	</div>
+	</a>
+	</div>
+	}
+
+
+	</div>
+	</div><!--end col-->
+	</div><!--end row-->
+	</div><!--end container-->  *@
+
+	<div class="container mt-100 mt-60">
+		<div class="py-5 px-4 rounded shadow" style="background: url('../assets/images/pharmacy/cta.jpg') center;">
+			<div class="row my-lg-5">
+				<div class="col-lg-12">
+					<div class="section-title">
+						<h1 class="title mb-4">Clinical Equipments <br> Stellar Price</h1>
+						<p class="para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+						<div class="mt-4 pt-2">
+							<a href="#" class="btn btn-primary">Shop now</a>
+						</div>
+					</div>
+				</div><!--end col-->
+			</div><!--end row-->
+		</div>
+	</div><!--end container-->
+
+</section><!--end section-->

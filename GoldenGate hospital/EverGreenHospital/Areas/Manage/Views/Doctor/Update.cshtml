@@ -1,0 +1,128 @@
+﻿@using Evergreen_Domain.ViewModel
+
+@model DoctorsVm
+<!-- Breadcrumb -->
+<!-- Page Title -->
+<div class="row no-margin-padding">
+	<div class="col-md-6">
+		<h3 class="block-title">Edit Doctor</h3>
+	</div>
+	<div class="col-md-6">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.html">
+					<span class="ti-home"></span>
+				</a>
+			</li>
+			<li class="breadcrumb-item">Doctors</li>
+			<li class="breadcrumb-item active">Edit Doctor</li>
+		</ol>
+	</div>
+</div>
+<!-- /Page Title -->
+<!-- /Breadcrumb -->
+<!-- Main Content -->
+<div class="container-fluid">
+
+	<div class="row">
+		<!-- Widget Item -->
+		<div class="col-md-12">
+			<div class="widget-area-2 proclinic-box-shadow">
+				<h3 class="widget-title">Edit Doctor</h3>
+				<form method="post" enctype="multipart/form-data">
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label asp-for="FullName">Doctor Name</label>
+							<input asp-for="FullName" type="text" class="form-control" placeholder="Doctor name">
+							<span asp-validation-for="FullName" style="text:red"></span>
+						</div>
+
+						<div class="form-group col-md-6">
+							<label asp-for="Phone">Phone</label>
+							<input asp-for="Phone" type="text" placeholder="Phone" class="form-control">
+							<span asp-validation-for="Phone" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Date">Date of Work </label>
+							<input asp-for="Date" type="date" placeholder="Date of Work" class="form-control">
+							<span asp-validation-for="Date" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="DepartmentId">Department</label>
+							<select asp-for="DepartmentId" class="form-control" asp-items="new SelectList(ViewBag.Departments,nameof(Department.Id),nameof(Department.Name))">
+								@foreach (var item in ViewBag.Departments)
+								{
+									<option value="@item.Id">@item.Name</option>
+								}
+
+							</select>
+							<span asp-validation-for="DepartmentId" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Payment">Payment</label>
+							<input asp-for="Payment" type="text" placeholder="Payment" class="form-control">
+							<span asp-validation-for="Payment" style="text:red"></span>
+						</div>
+
+
+
+						<div class="form-group col-md-6">
+							<label for="gender">Gender</label>
+							<select class="form-control" id="gender">
+								<option>Male</option>
+								<option>Female</option>
+								<option>Other</option>
+							</select>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Details">Doctor Details</label>
+							<textarea asp-for=Details placeholder="Doctor Details" class="form-control" rows="3"></textarea>
+							<span asp-validation-for="Details" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Adres">Address</label>
+							<textarea asp-for=Adres placeholder="Address" class="form-control" rows="3"></textarea>
+							<span asp-validation-for="Adres" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-12">
+							<label asp-for="ImgFile">ImgFile</label>
+							<input asp-for="ImgFile" type="file" class="form-control">
+							<span asp-validation-for="ImgFile" style="text:red"></span>
+						</div>
+
+						<div class="form-check col-md-12 mb-2">
+							<div class="text-left">
+								<div class="custom-control custom-checkbox">
+									<input class="custom-control-input" type="checkbox" id="ex-check-2">
+									<label class="custom-control-label" for="ex-check-2">Please Confirm</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-group col-md-6 mb-3">
+							<button type="submit" class="btn btn-primary btn-lg ">Update</button>
+						</div>
+					</div>
+				</form>
+				<!-- Alerts-->
+				<div class="alert alert-success alert-dismissible fade show" role="alert">
+					<strong>Successfully Done!</strong> Please Check in doctors list
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<div class="alert alert-warning alert-dismissible fade show" role="alert">
+					<strong>Holy guacamole!</strong> You should check in on some of those fields below.
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<!-- /Alerts-->
+			</div>
+		</div>
+		<!-- /Widget Item -->
+	</div>
+</div>
+<!-- /Main Content -->
+		</div>
+<!-- /Page Content -->
+	</div>

@@ -1,0 +1,83 @@
+﻿@using Evergreen_Domain.ViewModel
+
+@model QuestionVm
+<!-- Breadcrumb -->
+<!-- Page Title -->
+<div class="row no-margin-padding">
+	<div class="col-md-6">
+		<h3 class="block-title">Update Question</h3>
+	</div>
+	<div class="col-md-6">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.html">
+					<span class="ti-home"></span>
+				</a>
+			</li>
+			<li class="breadcrumb-item">Questions</li>
+			<li class="breadcrumb-item active">Update Questions</li>
+		</ol>
+	</div>
+</div>
+<!-- /Page Title -->
+<!-- /Breadcrumb -->
+<!-- Main Content -->
+<div class="container-fluid">
+
+	<div class="row">
+		<!-- Widget Item -->
+		<div class="col-md-12">
+			<div class="widget-area-2 proclinic-box-shadow">
+				<h3 class="widget-title">Update Questions</h3>
+				<form method="post" enctype="multipart/form-data">
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label asp-for="Question">Category Name</label>
+							<input asp-for="Question" type="text" class="form-control" placeholder="Question">
+							<span asp-validation-for="Question" style="text:red"></span>
+
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Answer">Category Name</label>
+							<input asp-for="Answer" type="text" class="form-control" placeholder="Answer">
+							<span asp-validation-for="Answer" style="text:red"></span>
+
+						</div>
+
+
+						<div class="form-check col-md-12 mb-2">
+							<div class="text-left">
+								<div class="custom-control custom-checkbox">
+									<input class="custom-control-input" type="checkbox" id="ex-check-2">
+									<label class="custom-control-label" for="ex-check-2">Please Confirm</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-group col-md-6 mb-3">
+							<button type="submit" class="btn btn-primary btn-lg">Create</button>
+						</div>
+					</div>
+				</form>
+				<!-- Alerts-->
+				<div class="alert alert-success alert-dismissible fade show" role="alert">
+					<strong>Successfully Done!</strong> Please Check in question list
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<div class="alert alert-warning alert-dismissible fade show" role="alert">
+					<strong>Holy guacamole!</strong> You should check in on some of those fields below.
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<!-- /Alerts-->
+			</div>
+		</div>
+		<!-- /Widget Item -->
+	</div>
+</div>
+<!-- /Main Content -->
+		</div>
+<!-- /Page Content -->
+	</div>

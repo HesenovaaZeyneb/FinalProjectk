@@ -1,0 +1,127 @@
+﻿@using Evergreen_Domain.OrderandBasket
+@using Evergreen_Domain.ViewModel
+@using Evergreen_Persistence.Concretes.Setting
+ @model List< WhistlesItemVm>
+@inject LayoutServicee layoutservice
+@{
+	List<WhistlesItemVm> whistlesvm = await layoutservice.GetWhistlesItems();
+
+
+}
+ 
+<!-- Hero Start -->
+<section class="bg-half-170 d-table w-100 bg-light">
+	<div class="container">
+		<div class="row mt-5 justify-content-center">
+			<div class="col-12">
+				<div class="section-title text-center">
+					<h3 class="sub-title mb-4">Whistles</h3>
+
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+	</div><!--end container-->
+</section><!--end section-->
+<div class="position-relative">
+	<div class="shape overflow-hidden text-color-white">
+		<svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+		</svg>
+	</div>
+</div>
+<!-- Hero End -->
+<!-- Start -->
+<section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="table-responsive bg-white shadow rounded">
+					<table class="table table-center table-padding mb-0">
+						<thead>
+							<tr>
+								<th class="border-bottom p-3" style="min-width:20px "></th>
+								<th class="border-bottom p-3" style="min-width: 300px;">Product</th>
+								<th class="border-bottom text-center p-3" style="min-width: 160px;">Price</th>
+					
+							</tr>
+						</thead>
+
+						<tbody>
+
+							@foreach (WhistlesItemVm item in whistlesvm)
+							{
+							
+								<tr>
+
+									<form method="post" asp-controller="Whistles" asp-action="RemoveWhistles" asp-route-id="@item.ProductId">
+									<td class="h5 p-3 text-center">
+										<input type="hidden" name="productId" id="prodIdInp" value="@item.ProductId" />
+										<a asp-action="RemoveWhistles" asp-controller="Whistles" asp-route-productId="@item.ProductId" style="display:none;" id="linkRemoveWhistles"></a>
+										<button type="button" class="item-delete" style="background:none;border:none;">
+											<i class="fa-solid fa-trash"></i>
+										</button>
+									</td>
+									<td class="p-3">
+										<div class="d-flex align-items-center">
+											<a asp-action="Detail" asp-controller="Shop" asp-route-id="@item.ProductId">
+												<img src="~/Upload/Product/@item.ImgUrl" class="img-fluid avatar avatar-small rounded shadow" style="height:auto;" alt="">
+
+											</a>
+
+											<h6 class="mb-0 ms-3">@item.Name</h6>
+										</div>
+									</td>
+									<td class="text-center p-3">$ @item.Price</td>
+									</form>
+								</tr>
+							}
+
+
+						</tbody>
+					</table>
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+	</div><!--end container-->
+</section><!--end section-->
+<!-- End -->
+@section Scripts {
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script>
+		document.querySelectorAll(".item-delete").forEach(x => x.addEventListener("click", function (e) {
+			e.preventDefault();
+			var button = $(this);
+			var form = button.closest('form');
+			var productId = document.querySelector('#prodIdInp').value;
+			let url = document.querySelector("#linkRemoveWhistles").href;
+			Swal.fire({
+				title: "Are you sure?",
+				text: "You won't be able to delete this!",
+				icon: "warning",
+				showCancelButton: true,
+				confirmButtonColor: "#3085d6",
+				cancelButtonColor: "#d33",
+				confirmButtonText: "Yes, delete it!"
+			}).then((result) => {
+				if (result.isConfirmed) {
+					fetch(url).then(response => {
+						console.log(response)
+						if (response.status == 200) {
+							Swal.fire({
+								title: "Deleted!",
+								text: "Your item has been deleted.",
+								icon: "success"
+							}).then(() => {
+								location.reload();
+							});
+						}
+						else {
+							Swal.fire("Failed!", response.message, "error");
+						}
+					})
+				}
+			})
+		}))
+	</script>
+}

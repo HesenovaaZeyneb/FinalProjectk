@@ -1,0 +1,185 @@
+﻿@using Evergreen_Domain.OrderandBasket
+@using Evergreen_Domain.ViewModel
+@using Evergreen_Persistence.Concretes.Setting
+@model List< BasketItemVm>
+@inject LayoutServicee layoutservice
+@{
+	List<BasketItemVm> basketvm = await layoutservice.GetBasketItems();
+
+	double Total = 0;
+}
+
+<!-- Hero Start -->
+<section class="bg-half-170 d-table w-100 bg-light">
+	<div class="container">
+		<div class="row mt-5 justify-content-center">
+			<div class="col-12">
+				<div class="section-title text-center">
+					<h3 class="sub-title mb-4">Shop Cart</h3>
+					<p class="para-desc mx-auto text-muted">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+					<nav aria-label="breadcrumb" class="d-inline-block mt-3">
+						<ul class="breadcrumb bg-light rounded mb-0 bg-transparent">
+							<li class="breadcrumb-item"><a href="index.html">Doctris</a></li>
+							<li class="breadcrumb-item"><a href="pharmacy.html">Pharmacy</a></li>
+							<li class="breadcrumb-item active" aria-current="page">Shop Cart</li>
+						</ul>
+					</nav>
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+	</div><!--end container-->
+</section><!--end section-->
+<div class="position-relative">
+	<div class="shape overflow-hidden text-color-white">
+		<svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+		</svg>
+	</div>
+</div>
+<!-- Hero End -->
+<!-- Start -->
+<section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="table-responsive bg-white shadow rounded">
+					<table class="table table-center table-padding mb-0">
+						<thead>
+							<tr>
+								<th class="border-bottom p-3" style="min-width:20px "></th>
+								<th class="border-bottom p-3" style="min-width: 300px;">Product</th>
+								<th class="border-bottom text-center p-3" style="min-width: 160px;">Price</th>
+								<th class="border-bottom text-center p-3" style="min-width: 190px;">Qty</th>
+								<th class="border-bottom text-end p-3" style="min-width: 50px;">Total</th>
+							</tr>
+						</thead>
+
+						<tbody>
+
+							@foreach (BasketItemVm item in basketvm)
+							{
+								Total += item.Price * item.Count;
+								<tr>
+
+									<form method="post" asp-controller="Basket" asp-action="RemoveBasket" asp-route-id="@item.ProductId">
+									<td class="h5 p-3 text-center">
+										<input type="hidden" name="productId" id="prodIdInp" value="@item.ProductId" />
+										<a asp-action="RemoveBasket" asp-controller="Basket" asp-route-productId="@item.ProductId" style="display:none;" id="linkRemovebasket"></a>
+										<button type="button" class="item-delete" style="background:none;border:none;">
+											<i class="fa-solid fa-trash"></i>
+										</button>
+									</td></form>
+									<td class="p-3">
+										<div class="d-flex align-items-center">
+											<a asp-action="Detail" asp-controller="Shop" asp-route-id="@item.ProductId">
+												<img src="~/Upload/Product/@item.ImgUrl" class="img-fluid avatar avatar-small rounded shadow" style="height:auto;" alt="">
+
+											</a>
+
+											<h6 class="mb-0 ms-3">@item.Name</h6>
+										</div>
+									</td>
+									<td class="text-center p-3">$ @item.Price</td>
+									<td class="text-center shop-list p-3">
+										<div class="qty-icons">
+											<button onclick="decreaseQuantity(this)" class="btn btn-icon btn-primary minus">-</button>
+											<input min="0" name="quantity" value="@item.Count" type="number" class="btn btn-icon btn-primary qty-btn quantity" onchange="updateTotal(this)">
+											<button onclick="increaseQuantity(this)" class="btn btn-icon btn-primary plus">+</button>
+										</div>
+									</td>
+									<td class="text-end font-weight-bold p-3" id="subtotal">@(item.Price * item.Count)</td>
+
+								</tr>
+							}
+
+
+						</tbody>
+					</table>
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+		<div class="row">
+			<div class="col-lg-8 col-md-6 mt-4 pt-2">
+				<a href="#" class="btn btn-primary">Shop More</a>
+				<a href="#" class="btn btn-soft-primary ms-2">Update Cart</a>
+			</div>
+			<div class="col-lg-4 col-md-6 ms-auto mt-4 pt-2">
+				<div class="table-responsive bg-white rounded shadow">
+					<table class="table table-center table-padding mb-0">
+						<tbody>
+
+
+							<tr class="bg-light">
+								<td class="h6 p-3">Total</td>
+								<td class="text-end font-weight-bold p-3">$ @Total</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="mt-4 pt-2 text-end">
+					<a asp-action="Checkout" asp-controller="Basket" class="btn btn-primary">Proceed to checkout</a>
+				</div>
+			</div><!--end col-->
+		</div><!--end row-->
+	</div><!--end container-->
+</section><!--end section-->
+<!-- End -->
+@section Scripts {
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script>
+		document.querySelectorAll(".item-delete").forEach(x => x.addEventListener("click", function (e) {
+			e.preventDefault();
+			var button = $(this);
+			var form = button.closest('form');
+			var productId = document.querySelector('#prodIdInp').value;
+			let url = document.querySelector("#linkRemovebasket").href;
+			Swal.fire({
+				title: "Are you sure?",
+				text: "You won't be able to delete this!",
+				icon: "warning",
+				showCancelButton: true,
+				confirmButtonColor: "#3085d6",
+				cancelButtonColor: "#d33",
+				confirmButtonText: "Yes, delete it!"
+			}).then((result) => {
+				if (result.isConfirmed) {
+					fetch(url).then(response => {
+						console.log(response)
+						if (response.status == 200) {
+							Swal.fire({
+								title: "Deleted!",
+								text: "Your item has been deleted.",
+								icon: "success"
+							}).then(() => {
+								location.reload();
+							});
+						}
+						else {
+							Swal.fire("Failed!", response.message, "error");
+						}
+					})
+				}
+			})
+		}))
+		function increaseQuantity(button) {
+			var input = button.parentNode.querySelector('input[type="number"]');
+			input.stepUp();
+			updateTotal(input);
+		}
+
+		function decreaseQuantity(button) {
+			var input = button.parentNode.querySelector('input[type="number"]');
+			input.stepDown();
+			updateTotal(input);
+		}
+
+		function updateTotal(input) {
+			var quantity = parseInt(input.value);
+			var price = parseFloat('item.Price'); // Ensure item.Price is correctly populated on server-side
+			var subtotal = quantity * price;
+			document.getElementById('subtotal').textContent = subtotal.toFixed(2); // Format subtotal as needed
+		}
+	</script>
+}

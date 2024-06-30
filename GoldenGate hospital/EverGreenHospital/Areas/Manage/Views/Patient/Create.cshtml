@@ -1,0 +1,120 @@
+﻿@model PatientVm
+<!-- Breadcrumb -->
+<!-- Page Title -->
+<div class="row no-margin-padding">
+	<div class="col-md-6">
+		<h3 class="block-title">Add Patient</h3>
+	</div>
+	<div class="col-md-6">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.html">
+					<span class="ti-home"></span>
+				</a>
+			</li>
+			<li class="breadcrumb-item">Patients</li>
+			<li class="breadcrumb-item active">Add Patient</li>
+		</ol>
+	</div>
+</div>
+<!-- /Page Title -->
+<!-- /Breadcrumb -->
+<!-- Main Content -->
+<div class="container-fluid">
+
+	<div class="row">
+		<!-- Widget Item -->
+		<div class="col-md-12">
+			<div class="widget-area-2 proclinic-box-shadow">
+				<h3 class="widget-title">Add Patient</h3>
+				<form method="post" enctype="multipart/form-data">
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label asp-for="FullName">Patient FullName</label>
+							<input asp-for=FullName type="text" class="form-control" placeholder="Patient FullName" >
+							<span asp-validation-for="FullName" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Weight">Weight</label>
+							<input asp-for=Weight type="text" placeholder="Weight" class="form-control">
+							<span asp-validation-for="Weight" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Height">Height</label>
+							<input asp-for=Height type="text" placeholder="Height" class="form-control" >
+							<span asp-validation-for="Height" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="BirthDay">BirthDay</label>
+							<input asp-for=BirthDay class="form-control" placeholder="BirthDay">
+							<span asp-validation-for="BirthDay" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Age">Age</label>
+							<input asp-for="Age" type="text" placeholder="Age" class="form-control" >
+							<span asp-validation-for="Age" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Phone">Phone</label>
+							<input asp-for="Phone" type="text" placeholder="Phone" class="form-control" >
+							<span asp-validation-for="Phone" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-6">
+							<label asp-for="Email">Email</label>
+							<input asp-for="Email" type="email" placeholder="email" class="form-control" >
+							<span asp-validation-for="Email" style="text:red"></span>
+						</div>
+
+
+						<div class="form-group col-md-6">
+							<label asp-for="LastVisit">Last Visit</label>
+							<input asp-for=LastVisit class="form-control" placeholder="LastVisit">
+							<span asp-validation-for="LastVisit" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-12">
+							<label asp-for="ImgFile">Image File</label>
+							<input asp-for=ImgFile type="file" class="form-control" >
+							<span asp-validation-for="ImgFile" style="text:red"></span>
+						</div>
+						<div class="form-group col-md-12">
+							<label asp-for="Adress">Address</label>
+							<textarea asp-for="Adress" placeholder="Address" class="form-control" rows="3"></textarea>
+							<span asp-validation-for="Adress" style="text:red"></span>
+						</div>
+
+						<div class="form-check col-md-12 mb-2">
+							<div class="text-left">
+								<div class="custom-control custom-checkbox">
+									<input class="custom-control-input" type="checkbox" id="ex-check-2">
+									<label class="custom-control-label" for="ex-check-2">Please Confirm</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-group col-md-6 mb-3">
+							<button type="submit" class="btn btn-primary btn-lg">Create</button>
+						</div>
+					</div>
+				</form>
+				<!-- Alerts-->
+				<div class="alert alert-success alert-dismissible fade show" role="alert">
+					<strong>Successfully Done!</strong> Please add Patient now
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<div class="alert alert-warning alert-dismissible fade show" role="alert">
+					<strong>Holy guacamole!</strong> You should check in on some of those fields below.
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<!-- /Alerts-->
+			</div>
+		</div>
+		<!-- /Widget Item -->
+	</div>
+</div>
+<!-- /Main Content -->
+		</div>
+<!-- /Page Content -->
+	</div>

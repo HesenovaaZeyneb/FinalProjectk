@@ -1,0 +1,52 @@
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.deps.json
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfoInputs.cache
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfo.cs
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\refint\Evergreen_Application.dll
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\ref\Evergreen_Application.dll
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.runtimeconfig.json
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.dll
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.pdb
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.AssemblyReference.cache
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergree.C58B4AFA.Up2Date
+C:\Users\UserHome\source\repos\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.deps.json
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.runtimeconfig.json
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.dll
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.pdb
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.AssemblyReference.cache
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfoInputs.cache
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfo.cs
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergree.C58B4AFA.Up2Date
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\refint\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\EverGreenHospital\Evergreen_Application\obj\Debug\net8.0\ref\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.deps.json
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.runtimeconfig.json
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\bin\Debug\net8.0\Evergreen_Domain.pdb
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.AssemblyReference.cache
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfoInputs.cache
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.AssemblyInfo.cs
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergree.C58B4AFA.Up2Date
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\refint\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.pdb
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\ref\Evergreen_Application.dll
+C:\Users\UserHome\Desktop\GoldenGate hospital\Evergreen_Application\obj\Debug\net8.0\Evergreen_Application.sourcelink.json

@@ -1,0 +1,107 @@
+﻿@using Evergreen_Domain
+@model List<Doctor>
+<!-- Breadcrumb -->
+<!-- Page Title -->
+<div class="row no-margin-padding">
+	<div class="col-md-6">
+		<h3 class="block-title">Doctors</h3>
+	</div>
+	<div class="col-md-6">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.html">
+					<span class="ti-home"></span>
+				</a>
+			</li>
+			<li class="breadcrumb-item">Doctors</li>
+			<li class="breadcrumb-item active">All Doctors</li>
+		</ol>
+	</div>
+</div>
+<!-- /Page Title -->
+<!-- /Breadcrumb -->
+<!-- Main Content -->
+<div class="container-fluid">
+
+	<div class="row">
+		<!-- Widget Item -->
+		<div class="col-md-12">
+			<div class="widget-area-2 proclinic-box-shadow">
+				<h3 class="widget-title">Doctors List</h3>
+				<div class="table-responsive mb-3">
+					<table id="tableId" class="table table-bordered table-striped">
+						<thead>
+							<tr>
+								
+								<th>Doctor ID</th>
+								<th>Doctor Name</th>
+								<th>Payment <small>(Visit)</small></th>
+								<th>Phone</th>
+								<th>Department</th>
+								<th>Date</th>
+								<th>ImgFile</th>
+								<th>Delete</th>
+								<th>Edit</th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (var item in Model)
+							{
+								<tr>
+									
+									<td>@item.Id</td>
+									<td>
+										<a asp-action="Detail" asp-controller="Doctor" asp-route-id="@item.Id">	@item.FullName</a>
+									</td>
+									<td>@item.Payment</td>
+									<td>@item.Phone</td>
+									<td>@item.Department.Name</td>
+									<td>@item.Date</td>
+									<td>
+										<img width="100" src="~/Upload/Doctor/@item.ImgUrl" />
+									</td>
+									<td>
+										<a asp-action="Delete" asp-controller="Doctor" asp-route-id="@item.Id" class="btn btn-danger mt-3 mb-0 item-delete"><span class="ti-trash"></span> DELETE</a>
+									</td>
+									<td>
+										<a  asp-action="Update" asp-controller="Doctor" asp-route-id="@item.Id" class="btn btn-primary mt-3 mb-0 "><span class="ti-pencil-alt"></span> EDIT</a>
+									</td>
+								</tr>
+							}
+
+						</tbody>
+					</table>
+
+					<!--Export links-->
+					<nav aria-label="Page navigation example">
+						<ul class="pagination justify-content-center export-pagination">
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-download"></span> csv</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-printer"></span>  print</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-file"></span> PDF</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-align-justify"></span> Excel</a>
+							</li>
+						</ul>
+					</nav>
+					<!-- /Export links-->
+					
+					
+				</div>
+			</div>
+		</div>
+		<!-- /Widget Item -->
+	</div>
+</div>
+<!-- /Main Content -->
+		</div>
+<!-- /Page Content -->
+	</div>
+
+
+

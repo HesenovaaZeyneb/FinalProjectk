@@ -1,0 +1,128 @@
+﻿@model AppointmentVm
+<!-- Start Hero -->
+<section class="bg-half-170 d-table w-100 bg-light">
+    <div class="container">
+        <div class="row mt-5 justify-content-center">
+            <div class="col-12">
+                <div class="section-title text-center">
+                    <h3 class="sub-title mb-4">Book an appointment</h3>
+                    <p class="para-desc mx-auto text-muted">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+
+                    <nav aria-label="breadcrumb" class="d-inline-block mt-3">
+                        <ul class="breadcrumb bg-transparent mb-0 py-1">
+                            <li class="breadcrumb-item"><a href="index.html">Doctris</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Appointment</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+</section><!--end section-->
+<div class="position-relative">
+    <div class="shape overflow-hidden text-color-white">
+        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+        </svg>
+    </div>
+</div>
+<!-- End Hero -->
+<!-- Start -->
+<section class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card border-0 shadow rounded ">
+                    <ul class="nav nav-pills nav-justified flex-column flex-sm-row rounded-0 shadow  bg-light mb-0" id="pills-tab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link rounded-0" id="online-booking" data-bs-toggle="pill" href="#pills-online" role="tab" aria-controls="pills-online" aria-selected="false">
+                                <div class="text-center pt-1 pb-1">
+                                    <h5 class="fw-medium mb-0">Online Appointment</h5>
+                                </div>
+                            </a><!--end nav link-->
+                        </li><!--end nav item-->
+                    </ul>
+
+                    <div class="tab-content p-4" id="pills-tabContent">
+
+                        <div class="tab-pane fade" id="pills-online" role="tabpanel" aria-labelledby="online-booking">
+                            <form method="post" >
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="mb-3">
+                                            <label asp-for=@User.Identity.Name class="form-label">Patient Name <span class="text-danger">*</span></label>
+                                            <input asp-for=@User.Identity.Name name="name" id="name2" type="text" class="form-control" placeholder="Patient Name :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="form-group col-md-6">
+                                        <label asp-for="DepartmentId">Department</label>
+                                        <select asp-for=DepartmentId class="form-control" asp-items="new SelectList(ViewBag.Departments,nameof(Department.Id),nameof(Department.Name))">
+                                            <option selected>Open this select menu</option>
+                                            @foreach (Department item in ViewBag.Departments)
+                                            {
+                                                <option value="@item.Id">@item.Name</option>
+                                            }
+
+                                        </select>
+                                        <span asp-validation-for="DepartmentId" style="text:red"></span>
+                                    </div>
+
+                                    <div class="form-group col-md-6">
+                                        <label asp-for="DoctorId">Doctor</label>
+                                        <select asp-for=DoctorId class="form-control" asp-items="new SelectList(ViewBag.Doctors,nameof(Doctor.FullName))">
+                                            <option selected>Open this select menu</option>
+                                            @foreach (Doctor item in ViewBag.Doctors)
+                                            {
+                                                <option value="@item.Id">@item.FullName</option>
+                                            }
+
+                                        </select>
+                                        <span asp-validation-for="DoctorId" style="text:red"></span>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label asp-for=Email class="form-label">Your Email <span class="text-danger">*</span></label>
+                                            <input asp-for=Email name="email"  class="form-control" placeholder="Your email :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label asp-for=Phone class="form-label">Your Phone <span class="text-danger">*</span></label>
+                                            <input asp-for=Phone name="phone"  class="form-control" placeholder="Your Phone :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label asp-for=VisitDate class="form-label"> VisitDate : </label>
+                                            <input asp-for=VisitDate class="form-control start" placeholder="Select date :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                   
+
+                                    <div class="col-lg-12">
+                                        <div class="mb-3">
+                                            <label asp-for=Comment class="form-label">Comments <span class="text-danger">*</span></label>
+                                            <textarea asp-for=Comment name="comment" id="comments2" rows="4" class="form-control" placeholder="Your Message :"></textarea>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-lg-12">
+                                        <div class="d-grid">
+                                            <button type="submit" class="btn btn-primary">Book An Appointment</button>
+                                        </div>
+                                    </div><!--end col-->
+                                </div><!--end row-->
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+</section><!--end section-->
+<!-- End -->

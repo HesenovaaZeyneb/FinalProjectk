@@ -1,0 +1,136 @@
+﻿<!-- Start Hero -->
+<section class="bg-half-170 d-table w-100" style="background: url('../assets/images/bg/about.jpg') center center;">
+    <div class="bg-overlay bg-overlay-dark"></div>
+    <div class="container">
+        <div class="row mt-5 justify-content-center">
+            <div class="col-12">
+                <div class="section-title text-center">
+                    <h3 class="sub-title mb-4 text-white title-dark">About us</h3>
+                    <p class="para-desc mx-auto text-white-50">
+                        We are at your service with our center
+                        GoldenGate Hospital is the only center in our country that operates 24/7 with professional medical staff.
+                    </p>
+
+                    <nav aria-label="breadcrumb" class="d-inline-block mt-3">
+                        <ul class="breadcrumb bg-light rounded mb-0 py-1 px-2">
+                            <li class="breadcrumb-item"><a href="index.html">Doctris</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">About us</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+</section><!--end section-->
+<div class="position-relative">
+    <div class="shape overflow-hidden text-color-white">
+        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+        </svg>
+    </div>
+</div>
+<!-- End Hero -->
+<!-- Start -->
+<section class="section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 col-md-6">
+                <div class="position-relative">
+                    <img src="~/assets/images/about/about-2.png" class="img-fluid" alt="">
+                   
+                </div>
+            </div><!--end col-->
+
+            <div class="col-lg-7 col-md-6 mt-4 mt-lg-0 pt- pt-lg-0">
+                <div class="ms-lg-4">
+                    <div class="section-title me-lg-5">
+                        
+                        <h4 class="title mt-3 mb-4">Good Services And Better <br> Health By Our Specialists</h4>
+                        <p class="para-desc text-muted">
+                            The mission of the chain of GoldenGate Hospital is to provide a high-level medical service in full compliance with international standards.
+                            Our main goals were to provide medical services at the level of modern standards to our people by using the latest achievements of medicine and modern technologies, and to ensure that patients who go to foreign countries for treatment receive all kinds of medical services that have not been implemented in our country so far.
+                        </p>
+                        <p class="para-desc text-muted">
+                            In recent years, the investments made in the clinic in order to meet the increasing demand ensure that BMP is the largest private hospital in Azerbaijan.
+                            At the point we have reached today, we provide 200 beds, 25 intensive care beds, 15 operating rooms equipped with laminar air flow and 5 maternity rooms, 25 intensive care units for newborns in a closed area of ​​25,000 m2. In the coming period, we will continue to develop the services we provide, aiming at the most advanced standards in the world. We aspire to be the choice of patients who prefer treatment abroad with the highest level of medical services, medical staff trained abroad and invited from abroad, high medical service and the best medical equipment.
+                            At BMP Women's and Children's health center, we provide services in many areas, such as general women's health, pregnancy follow-up, high-risk pregnancy follow-up, all kinds of open and laparoscopic gynecological operations. Complications after gynecological operations and difficult problems such as urinary incontinence are mainly treated in our hospital. Also, the Department of Pediatrics and Neonatology provides services at the BMP Women's and Children's Health Center.
+                        </p>
+                        
+                    </div>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+
+    <div class="container mt-100 mt-60">
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="section-title mb-4 pb-2 text-center">
+                    <span class="badge rounded-pill bg-soft-primary mb-3">Departments</span>
+                    <h4 class="title mb-4">Our Medical Services</h4>
+                    <p class="text-muted mx-auto para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        <div class="row">
+            @foreach (Department item in ViewBag.Departments)
+            {
+                <div class="col-xl-3 col-md-4 col-12 mt-4 pt-2">
+                    <div class="card features feature-primary border-0">
+                        <div class="icon text-center rounded-md">
+                            <img width="100" src="~/Upload/Icon/@item.ImgUrl" class="img-fluid" alt="" />
+                        </div>
+                        <div class="card-body p-0 mt-3">
+                            <a href="#" class="title text-dark h5">@item.Name</a>
+                            <p class="text-muted mt-3">@item.Description</p>
+                            <a href="#" class="link">Read More <i class="ri-arrow-right-line align-middle"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!--end col-->
+            }
+
+        </div><!--end row-->
+    </div><!--end container-->
+
+    <div class="container mt-100 mt-60">
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="section-title text-center mb-4 pb-2">
+                    <h4 class="title mb-4">Doctors</h4>
+                    <p class="text-muted mx-auto para-desc mb-0">Great doctor if you need your family member to get effective immediate assistance, emergency treatment or a simple consultation.</p>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        <div class="row align-items-center">
+            @foreach (Doctor item in ViewBag.Doctors)
+            {
+                <div class="col-xl-3 col-lg-3 col-md-6 mt-4 pt-2">
+                    <div class="card team border-0 rounded shadow overflow-hidden">
+                        <div class="team-img position-relative">
+                            <img src="~/Upload/Doctor/@item.ImgUrl" class="img-fluid" alt="">
+                            <ul class="list-unstyled team-social mb-0">
+                                <li><a href="#" class="btn btn-icon btn-pills btn-soft-primary"><i data-feather="facebook" class="icons"></i></a></li>
+                                <li class="mt-2"><a href="#" class="btn btn-icon btn-pills btn-soft-primary"><i data-feather="linkedin" class="icons"></i></a></li>
+                                <li class="mt-2"><a href="#" class="btn btn-icon btn-pills btn-soft-primary"><i data-feather="github" class="icons"></i></a></li>
+                                <li class="mt-2"><a href="#" class="btn btn-icon btn-pills btn-soft-primary"><i data-feather="twitter" class="icons"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="card-body content text-center">
+                            <a href="#" class="title text-dark h5 d-block mb-0">@item.FullName</a>
+                            <small class="text-muted speciality">@item.Department</small>
+                        </div>
+                    </div>
+                </div>
+
+                <!--end col-->
+            }
+
+            
+        </div><!--end row-->
+    </div><!--end container-->
+</section><!--end section-->
+<!-- End -->

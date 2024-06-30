@@ -1,0 +1,96 @@
+﻿@model List<Category>
+
+<!-- Breadcrumb -->
+<!-- Page Title -->
+<div class="row no-margin-padding">
+	<div class="col-md-6">
+		<h3 class="block-title">Category</h3>
+	</div>
+	<div class="col-md-6">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.html">
+					<span class="ti-home"></span>
+				</a>
+			</li>
+			<li class="breadcrumb-item">Category</li>
+			<li class="breadcrumb-item active">All Category</li>
+		</ol>
+	</div>
+</div>
+<!-- /Page Title -->
+<!-- /Breadcrumb -->
+<!-- Main Content -->
+<div class="container-fluid">
+
+	<div class="row">
+		<!-- Widget Item -->
+		<div class="col-md-12">
+			<div class="widget-area-2 proclinic-box-shadow">
+				<h3 class="widget-title">Category List</h3>
+				<div class="table-responsive mb-3">
+					<table id="tableId" class="table table-bordered table-striped">
+						<thead>
+							<tr>
+								
+								<th>Category ID</th>
+								<th>Category Name</th>
+								@* <th>Image</th> *@
+								<th>Delete</th>
+								<th>Edit</th>
+								
+
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (var item in Model)
+							{
+								<tr>
+									
+									<td>@item.Id</td>
+									<td>@item.Name</td>
+								@* 	<td><img width="100" src="~/Upload/Category/@item.ImgUrl" /></td> *@
+									<td>
+										<a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id" class="btn btn-danger mt-3 mb-0 item-delete "><span class="ti-trash"></span> DELETE</a>
+										
+									</td>
+									<td>
+										<a asp-action="Update" asp-controller="Category" asp-route-id="@item.Id" class="btn btn-primary mt-3 mb-0 "><span class="ti-pencil-alt"></span> EDIT</a>
+									</td>
+								</tr>
+							}
+
+						</tbody>
+					</table>
+
+					<!--Export links-->
+					<nav aria-label="Page navigation example">
+						<ul class="pagination justify-content-center export-pagination">
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-download"></span> csv</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-printer"></span>  print</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-file"></span> PDF</a>
+							</li>
+							<li class="page-item">
+								<a class="page-link" href="#"><span class="ti-align-justify"></span> Excel</a>
+							</li>
+						</ul>
+					</nav>
+					<!-- /Export links-->
+					
+				</div>
+			</div>
+		</div>
+		<!-- /Widget Item -->
+	</div>
+</div>
+<!-- /Main Content -->
+		</div>
+<!-- /Page Content -->
+	</div>
+
+
