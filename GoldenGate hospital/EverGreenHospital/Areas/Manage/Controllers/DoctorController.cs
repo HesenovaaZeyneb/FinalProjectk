@@ -5,6 +5,7 @@ using Evergreen_Persistence.DAL;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EverGreenHospital.Areas.Manage.Controllers
 {
@@ -73,7 +74,7 @@ namespace EverGreenHospital.Areas.Manage.Controllers
 		{
 			
 		 
-			ViewBag.Departments = _context.Departments.ToList();
+			ViewBag.Departments = _context.Departments.Include(x=>x.Doctors).ToList();
 			return View(_service.Get(id));
 
 		}

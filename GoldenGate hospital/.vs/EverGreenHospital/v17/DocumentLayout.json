@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\shop\\shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\shop\\shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\doctoruser\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\doctoruser\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\doctoruser\\appoinmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\doctoruser\\appoinmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\doctoruser\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\doctoruser\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\patientuser\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\patientuser\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\controllers\\patientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\controllers\\patientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\patientuser\\onlineappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\patientuser\\onlineappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879C3984-247E-46DD-B80D-CECD90750C8B}|Evergreen_Persistence\\Evergreen_Persistence.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreen_persistence\\migrations\\20240630203313_updatemaxlegth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,14 +103,6 @@
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\controllers\\patientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\controllers\\patientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\patientuser\\onlineappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\patientuser\\onlineappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -93,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,16 +167,8 @@
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\faq\\allquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\doctor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\doctor\\alldoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -183,10 +211,6 @@
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\patient\\allpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -201,10 +225,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\views\\shop\\shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\views\\shop\\shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879C3984-247E-46DD-B80D-CECD90750C8B}|Evergreen_Persistence\\Evergreen_Persistence.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreen_persistence\\migrations\\20240629221346_updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,10 +259,6 @@
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\appoinment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|c:\\users\\userhome\\desktop\\finalprojectk\\goldengate hospital\\evergreenhospital\\areas\\manage\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BEC1BFB-264E-4CD1-B51B-BD84286D15C8}|EverGreenHospital\\EverGreenHospital.csproj|solutionrelative:evergreenhospital\\areas\\manage\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -266,98 +282,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "QuestionService.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Concretes\\QuestionService.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Concretes\\QuestionService.cs",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Concretes\\QuestionService.cs",
               "RelativeToolTip": "Evergreen_Persistence\\Concretes\\QuestionService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAzwDYAAAAwAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T21:07:31.7Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AppoinmentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\AppoinmentList.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\DoctorUser\\AppoinmentList.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\AppoinmentList.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\DoctorUser\\AppoinmentList.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:48:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\Profile.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\DoctorUser\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\Profile.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\DoctorUser\\Profile.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:48:34.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:45:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\Profile.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\PatientUser\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\Profile.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\PatientUser\\Profile.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAYwGYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:43:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\DoctorUser\\Dashboard.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\DoctorUser\\Dashboard.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Views\\DoctorUser\\Dashboard.cshtml",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFcAAAAQAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T13:53:35.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240630203313_updatemaxlegth1.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
-              "RelativeDocumentMoniker": "Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
-              "RelativeToolTip": "Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:33:13.601Z",
+              "DocumentIndex": 0,
+              "Title": "Shops.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Shop\\Shops.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Shop\\Shops.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Shop\\Shops.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\Shop\\Shops.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:51:54.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorsVm.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
-              "RelativeDocumentMoniker": "Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
-              "RelativeToolTip": "Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "DocumentIndex": 9,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wEwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:32:52.621Z"
+              "WhenOpened": "2024-06-29T20:46:10.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\User.cs",
-              "RelativeDocumentMoniker": "Evergreen_Domain\\User.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\User.cs",
-              "RelativeToolTip": "Evergreen_Domain\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:32:44.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Questions.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Questions.cs",
-              "RelativeDocumentMoniker": "Evergreen_Domain\\Questions.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Questions.cs",
-              "RelativeToolTip": "Evergreen_Domain\\Questions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:32:41.708Z"
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T20:45:43.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Patient.cs",
-              "RelativeDocumentMoniker": "Evergreen_Domain\\Patient.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Patient.cs",
-              "RelativeToolTip": "Evergreen_Domain\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T20:40:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientUserController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\PatientUserController.cs",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Controllers\\PatientUserController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\PatientUserController.cs",
+              "RelativeToolTip": "EverGreenHospital\\Controllers\\PatientUserController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwHoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:32:35.722Z"
+              "WhenOpened": "2024-06-29T20:50:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwGMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T10:25:27.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "OnlineAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:04:35.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T10:33:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Contact.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Contact.cs",
@@ -369,7 +476,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Evergreen_Domain\\Patient.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Patient.cs",
+              "RelativeToolTip": "Evergreen_Domain\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:32:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Questions.cs",
+              "RelativeDocumentMoniker": "Evergreen_Domain\\Questions.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Questions.cs",
+              "RelativeToolTip": "Evergreen_Domain\\Questions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:32:41.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\User.cs",
+              "RelativeDocumentMoniker": "Evergreen_Domain\\User.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\User.cs",
+              "RelativeToolTip": "Evergreen_Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:32:44.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorsVm.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
+              "RelativeDocumentMoniker": "Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
+              "RelativeToolTip": "Evergreen_Domain\\ViewModel\\DoctorsVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:32:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240630203313_updatemaxlegth1.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
+              "RelativeDocumentMoniker": "Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
+              "RelativeToolTip": "Evergreen_Persistence\\Migrations\\20240630203313_updatemaxlegth1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:33:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Appointment.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Appointment.cs",
@@ -381,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Doctor.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Doctor.cs",
@@ -393,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Blogs\\Details.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Blogs\\Details.cshtml",
@@ -405,31 +572,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Blogs.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Blogs\\Blogs.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Blogs\\Blogs.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Blogs\\Blogs.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Views\\Blogs\\Blogs.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAABiAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCwAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T19:46:32.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAADkAAABPAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAIBJwDkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-29T21:37:22.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Product.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Product.cs",
@@ -441,19 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OnlineAppointment.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Views\\PatientUser\\OnlineAppointment.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T22:04:35.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Blog.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Blog.cs",
@@ -465,19 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PatientUserController.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\PatientUserController.cs",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Controllers\\PatientUserController.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\PatientUserController.cs",
-              "RelativeToolTip": "EverGreenHospital\\Controllers\\PatientUserController.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T20:50:15.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "DoctorsService.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Concretes\\DoctorsService.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Concretes\\DoctorsService.cs",
@@ -489,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "BlogsController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Controllers\\BlogsController.cs",
@@ -501,19 +644,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "AllBlogs.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\AllBlogs.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\AllBlogs.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\AllBlogs.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\AllBlogs.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAEIAAAANAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwEIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:31:38.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\BlogController.cs",
@@ -525,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\ProductController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\ProductController.cs",
@@ -537,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Concretes\\BlogService.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Concretes\\BlogService.cs",
@@ -549,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\DepartmentController.cs",
@@ -561,31 +704,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T20:46:10.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Create.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Create.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAEoAAABOAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwEoAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:31:45.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Controllers\\DepartmentController.cs",
@@ -597,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 67,
               "Title": "20240630194114_updatemaxlegth.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240630194114_updatemaxlegth.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Migrations\\20240630194114_updatemaxlegth.cs",
@@ -609,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "BlogVm.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\BlogVm.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\ViewModel\\BlogVm.cs",
@@ -621,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Detail.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Detail.cshtml",
@@ -633,31 +764,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\Update.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\Update.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\Update.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\Update.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEAAAABDAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwEAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:33:04.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\Create.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\Create.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\Create.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAABDAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwEAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:32:54.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "AllQuestion.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Faq\\AllQuestion.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Faq\\AllQuestion.cshtml",
@@ -669,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Faq\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Faq\\Create.cshtml",
@@ -681,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Faq\\Update.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Faq\\Update.cshtml",
@@ -693,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Question\\Index.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Question\\Index.cshtml",
@@ -705,43 +836,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Update.cshtml",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T10:33:32.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Update.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Update.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Update.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Update.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAE8AAAAKAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwE8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:32:03.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Detail.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Detail.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Detail.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Blog\\Detail.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:31:57.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "AllDoctors.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\AllDoctors.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\AllDoctors.cshtml",
@@ -753,19 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T20:45:43.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "AllPatient.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\AllPatient.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\AllPatient.cshtml",
@@ -777,43 +884,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "AllDeparment.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\AllDeparment.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\AllDeparment.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Department\\AllDeparment.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Department\\AllDeparment.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-29T21:11:24.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Update.cshtml",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAYwGMAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T10:25:27.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Create.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Create.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Patient\\Create.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGQAAABQAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBJwGQAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:24:58.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Category\\Create.cshtml",
@@ -825,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Category\\Update.cshtml",
@@ -837,67 +932,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "AllCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Category\\AllCategory.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Category\\AllCategory.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Category\\AllCategory.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Category\\AllCategory.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAACUAAAAcAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBJwCUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-29T20:25:25.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "AllProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\AllProduct.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\AllProduct.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\AllProduct.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\AllProduct.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:24:48.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\Update.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\Update.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFUAAABAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBJwFUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:23:52.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFYAAABAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAIBJwFYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T10:22:53.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Shops.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Shop\\Shops.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Shop\\Shops.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Shop\\Shops.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Views\\Shop\\Shops.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAYwHYAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T09:51:54.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "20240629221346_updatecategory.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Migrations\\20240629221346_updatecategory.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Migrations\\20240629221346_updatecategory.cs",
@@ -909,7 +992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Concretes\\ShopService\\CategoryService.cs",
               "RelativeDocumentMoniker": "Evergreen_Persistence\\Concretes\\ShopService\\CategoryService.cs",
@@ -921,7 +1004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 58,
               "Title": "CategoryVm.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\ViewModel\\CategoryVm.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\ViewModel\\CategoryVm.cs",
@@ -933,7 +1016,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Domain\\Category.cs",
               "RelativeDocumentMoniker": "Evergreen_Domain\\Category.cs",
@@ -945,19 +1028,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\CategoryController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\CategoryController.cs",
               "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\CategoryController.cs",
               "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Controllers\\Shop\\CategoryController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAkwFIAAAAmAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wFIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T22:10:08.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 62,
               "Title": "AppoinmentController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\AppoinmentController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\AppoinmentController.cs",
@@ -969,7 +1052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 63,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Appoinment\\Index.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Appoinment\\Index.cshtml",
@@ -981,19 +1064,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EverGreenHospital\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAYwGwAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T20:40:35.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 61,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EverGreenHospital\\Views\\Shared\\_Layout.cshtml",
@@ -1005,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "FaqController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Areas\\Manage\\Controllers\\FaqController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Areas\\Manage\\Controllers\\FaqController.cs",
@@ -1017,7 +1088,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Program.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Program.cs",
@@ -1029,7 +1100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "QuestionController.cs",
               "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "EverGreenHospital\\Controllers\\QuestionController.cs",

@@ -1,1203 +1,1211 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EverGreenHospital.bundle.scp.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EverGreenHospital.bundle.scp.css",
       "PackagePath": "staticwebassets\\EverGreenHospital.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\6bb1b877-e538-4dbc-91a1-eb208cc860f9blog1.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\6bb1b877-e538-4dbc-91a1-eb208cc860f9blog1.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\6bb1b877-e538-4dbc-91a1-eb208cc860f9blog1.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog1.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog1.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog1.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog2.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog2.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog2.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog3.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog3.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog3.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog4.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog4.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog4.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog5.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog5.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog5.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog6.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog6.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog6.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog7.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog7.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog7.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog8.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog8.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog8.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog9.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\blog9.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\blog9.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\cd7638ac-e881-4bfc-8941-c64834cfe491blog1.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Blog\\cd7638ac-e881-4bfc-8941-c64834cfe491blog1.png",
       "PackagePath": "staticwebassets\\Upload\\Blog\\cd7638ac-e881-4bfc-8941-c64834cfe491blog1.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0037.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0037.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0037.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0039.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0039.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0039.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0040.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0040.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0040.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0041.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0041.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0041.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0042.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0042.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0042.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0043.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Category\\IMG-20240616-WA0043.jpg",
       "PackagePath": "staticwebassets\\Upload\\Category\\IMG-20240616-WA0043.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\0523853e-43bb-4fd6-8a89-ed5e88b1a511beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\0523853e-43bb-4fd6-8a89-ed5e88b1a511beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\0523853e-43bb-4fd6-8a89-ed5e88b1a511beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\0d6250f4-5b92-43b1-ab2e-69dd6ab4ba7cIMG-20240616-WA0013.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\0d6250f4-5b92-43b1-ab2e-69dd6ab4ba7cIMG-20240616-WA0013.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\0d6250f4-5b92-43b1-ab2e-69dd6ab4ba7cIMG-20240616-WA0013.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\2dbb5af9-6890-404f-92ee-916855704820beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\2dbb5af9-6890-404f-92ee-916855704820beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\2dbb5af9-6890-404f-92ee-916855704820beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\38257159-1962-4111-b410-e31694e44911download.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\38257159-1962-4111-b410-e31694e44911download.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\38257159-1962-4111-b410-e31694e44911download.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\490748e7-6d80-460e-8b37-b06b0aa43c12IMG-20240616-WA0013.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\38cf101a-3b0b-4b84-9537-818cc241bfc3IMG-20240616-WA0015.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Doctor\\38cf101a-3b0b-4b84-9537-818cc241bfc3IMG-20240616-WA0015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\490748e7-6d80-460e-8b37-b06b0aa43c12IMG-20240616-WA0013.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\490748e7-6d80-460e-8b37-b06b0aa43c12IMG-20240616-WA0013.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\49f5011a-1bb4-48e9-b966-524c71d70b09beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\49f5011a-1bb4-48e9-b966-524c71d70b09beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\49f5011a-1bb4-48e9-b966-524c71d70b09beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\5394a086-dec6-499c-96bc-4035f9ea1700IMG-20240616-WA0002.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\5394a086-dec6-499c-96bc-4035f9ea1700IMG-20240616-WA0002.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\5394a086-dec6-499c-96bc-4035f9ea1700IMG-20240616-WA0002.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\6f5dfa7c-e60e-407b-8ebc-42a3ee828368beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\6814abc4-ab6f-43f2-88c6-7011c01e020fIMG-20240616-WA0011.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Doctor\\6814abc4-ab6f-43f2-88c6-7011c01e020fIMG-20240616-WA0011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\6f5dfa7c-e60e-407b-8ebc-42a3ee828368beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\6f5dfa7c-e60e-407b-8ebc-42a3ee828368beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\8be789ed-5305-4d1c-9c52-6440a7e8c633esas1.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\8be789ed-5305-4d1c-9c52-6440a7e8c633esas1.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\8be789ed-5305-4d1c-9c52-6440a7e8c633esas1.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\8c29dc04-b5a6-4b83-bf62-15a2b1fd565fIMG-20240616-WA0010.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\8c29dc04-b5a6-4b83-bf62-15a2b1fd565fIMG-20240616-WA0010.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\8c29dc04-b5a6-4b83-bf62-15a2b1fd565fIMG-20240616-WA0010.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9a074658-548b-43e3-a46a-350e99ebd031hospital.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9a074658-548b-43e3-a46a-350e99ebd031hospital.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\9a074658-548b-43e3-a46a-350e99ebd031hospital.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9ba95c69-2624-4094-a330-1b7451b72007IMG-20240616-WA0011.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9ba95c69-2624-4094-a330-1b7451b72007IMG-20240616-WA0011.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\9ba95c69-2624-4094-a330-1b7451b72007IMG-20240616-WA0011.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9c62dded-d1b7-4363-8a29-078f3342fc7bIMG-20240616-WA0013.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\9c62dded-d1b7-4363-8a29-078f3342fc7bIMG-20240616-WA0013.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\9c62dded-d1b7-4363-8a29-078f3342fc7bIMG-20240616-WA0013.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\c4a870a1-5c19-45f6-925a-6fe2b4dbe771IMG-20240616-WA0011.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\c4a870a1-5c19-45f6-925a-6fe2b4dbe771IMG-20240616-WA0011.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\c4a870a1-5c19-45f6-925a-6fe2b4dbe771IMG-20240616-WA0011.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\c8d8478b-558f-4834-88c4-d8ce3022ac41beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\c8d8478b-558f-4834-88c4-d8ce3022ac41beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\c8d8478b-558f-4834-88c4-d8ce3022ac41beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\doctor-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Doctor\\doctor-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Doctor\\doctor-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\12-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\12-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Homephoto\\12-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\WARDIERE__1_-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\WARDIERE__1_-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Homephoto\\WARDIERE__1_-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\WhatsApp_Görsel_2024-06-16_saat_20.47.51_3d874d7c-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\WhatsApp_Görsel_2024-06-16_saat_20.47.51_3d874d7c-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Homephoto\\WhatsApp_Görsel_2024-06-16_saat_20.47.51_3d874d7c-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\esas1.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Homephoto\\esas1.jpg",
       "PackagePath": "staticwebassets\\Upload\\Homephoto\\esas1.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\IMG-20240520-WA0022.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\IMG-20240520-WA0022.jpg",
       "PackagePath": "staticwebassets\\Upload\\Icon\\IMG-20240520-WA0022.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Icon\\beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\beyin-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\beyin.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\beyin.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\cerrahi-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\cerrahi-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\cerrahi-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\dental.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\dental.jpg",
       "PackagePath": "staticwebassets\\Upload\\Icon\\dental.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\dermatoloji-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\dermatoloji-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\dermatoloji-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\eye-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\eye-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\eye-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\eye.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\eye.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\eye.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\heart-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\heart-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\heart-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\heart.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\heart.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\heart.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\kardioloq.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\kardioloq.jpg",
       "PackagePath": "staticwebassets\\Upload\\Icon\\kardioloq.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\laboratori.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\laboratori.jpg",
       "PackagePath": "staticwebassets\\Upload\\Icon\\laboratori.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\pediatr-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\pediatr-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\pediatr-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\psixitroo-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Icon\\psixitroo-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Icon\\psixitroo-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\049ae544-14e3-4881-8f17-740c17324126IMG-20240520-WA0024.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\049ae544-14e3-4881-8f17-740c17324126IMG-20240520-WA0024.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\049ae544-14e3-4881-8f17-740c17324126IMG-20240520-WA0024.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\25959154-5d63-4d46-a41f-824ba1b663fbIMG-20240520-WA0024.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\25959154-5d63-4d46-a41f-824ba1b663fbIMG-20240520-WA0024.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\25959154-5d63-4d46-a41f-824ba1b663fbIMG-20240520-WA0024.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\2a2e7c06-c60f-4d68-99c1-28cf2c0f0641IMG-20240520-WA0019.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\2a2e7c06-c60f-4d68-99c1-28cf2c0f0641IMG-20240520-WA0019.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\2a2e7c06-c60f-4d68-99c1-28cf2c0f0641IMG-20240520-WA0019.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\2d84bd1e-38be-40cd-b77e-c3e063957645doctor-removebg-preview.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\2d84bd1e-38be-40cd-b77e-c3e063957645doctor-removebg-preview.png",
       "PackagePath": "staticwebassets\\Upload\\Patient\\2d84bd1e-38be-40cd-b77e-c3e063957645doctor-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\4acf90ec-80cc-4570-8c19-72dfadeadb58WARDIERE.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\4acf90ec-80cc-4570-8c19-72dfadeadb58WARDIERE.png",
       "PackagePath": "staticwebassets\\Upload\\Patient\\4acf90ec-80cc-4570-8c19-72dfadeadb58WARDIERE.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\64544ab4-b3ec-4eb8-9dc7-2917e04e263bpregnant.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\64544ab4-b3ec-4eb8-9dc7-2917e04e263bpregnant.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\64544ab4-b3ec-4eb8-9dc7-2917e04e263bpregnant.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\a531a887-63d7-4623-9135-f77e1c7ded14IMG-20240520-WA0024.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\a531a887-63d7-4623-9135-f77e1c7ded14IMG-20240520-WA0024.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\a531a887-63d7-4623-9135-f77e1c7ded14IMG-20240520-WA0024.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\ab4e9ee7-c8ae-49b0-ae74-9eacda0553ccIMG-20240520-WA0019.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\ab4e9ee7-c8ae-49b0-ae74-9eacda0553ccIMG-20240520-WA0019.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\ab4e9ee7-c8ae-49b0-ae74-9eacda0553ccIMG-20240520-WA0019.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\e1c640c3-47f2-4ef9-ab75-b217a4869e71IMG-20240520-WA0024.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Patient\\e1c640c3-47f2-4ef9-ab75-b217a4869e71IMG-20240520-WA0024.jpg",
       "PackagePath": "staticwebassets\\Upload\\Patient\\e1c640c3-47f2-4ef9-ab75-b217a4869e71IMG-20240520-WA0024.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\1.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\1.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\1.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\10.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\10.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\10.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\1026351542_105_0_1215_628_1920x0_80_0_0_f81db891a7ca9ace9d84dc8115bbc4f6.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\1026351542_105_0_1215_628_1920x0_80_0_0_f81db891a7ca9ace9d84dc8115bbc4f6.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\1026351542_105_0_1215_628_1920x0_80_0_0_f81db891a7ca9ace9d84dc8115bbc4f6.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\11.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\11.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\11.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\12.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\12.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\12.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\13.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\13.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\13.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\14.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\14.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\14.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\15.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\15.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\15.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\16.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\16.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\16.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\17.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\17.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\17.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\18.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\18.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\18.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\19.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\19.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\19.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\2.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\2.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\2.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\20.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\20.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\20.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\21.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\21.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\21.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\22.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\22.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\22.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\23.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\23.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\23.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\24.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\24.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\24.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\25.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\25.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\25.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\26.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\26.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\26.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\27.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\27.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\27.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\28.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\28.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\28.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\29.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\29.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\29.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\3.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\3.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\3.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\30.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\30.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\30.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\31.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\31.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\31.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\32.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\32.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\32.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\4.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\4.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\4.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\5.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\5.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\5.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\6.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\6.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\6.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\7.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\7.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\7.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\8.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\8.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\8.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\9.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\9.png",
       "PackagePath": "staticwebassets\\Upload\\Product\\9.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\IMG-20240616-WA0038.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\IMG-20240616-WA0038.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\IMG-20240616-WA0038.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\IMG-20240616-WA0043.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\IMG-20240616-WA0043.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\IMG-20240616-WA0043.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\beyin cerrahi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\beyin cerrahi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\beyin cerrahi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\dental.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\dental.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\dental.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\dermatologi.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\dermatologi.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\dermatologi.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\download.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\download.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\download.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\hospital.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\hospital.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\hospital.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\urek dermani.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\urek dermani.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\urek dermani.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\weight.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\weight.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\weight.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\yuz.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\Upload\\Product\\yuz.jpg",
       "PackagePath": "staticwebassets\\Upload\\Product\\yuz.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-dark-rtl.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-dark-rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap-dark-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-dark.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-dark.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap-dark.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-rtl.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap-rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\icons.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\icons.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\minicart.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\minicart.css",
       "PackagePath": "staticwebassets\\assets\\css\\minicart.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-dark-rtl.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-dark-rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-dark-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-dark.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-dark.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-dark.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-rtl.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style-rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\css\\style.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\about\\about-2.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\about\\about-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\about-2.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\05.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\about.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\about.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\about.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-chat.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-chat.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-chat.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-lines-one.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-lines-one.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-lines-one.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-profile.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\bg-profile.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-profile.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\department.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\department.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\department.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\pharm03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\slider01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\slider02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\bg\\slider03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\slider03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\04.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\07.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\07.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\08.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\08.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\09.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\09.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\single.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\blog\\single.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\single.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\04.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\05.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\06.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\07.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\07.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\08.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\08.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\09.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\09.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\10.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\client\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\amazon.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\amazon.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\amazon.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\google.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\google.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\google.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\lenovo.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\lenovo.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\lenovo.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\paypal.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\paypal.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\shopify.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\shopify.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\shopify.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\spotify.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\client\\spotify.png",
       "PackagePath": "staticwebassets\\assets\\images\\client\\spotify.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\cta.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\cta.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\cta.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\04.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\05.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\06.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\07.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\07.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\08.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\08.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\dr-profile.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\dr-profile.png",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\dr-profile.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\profile-bg.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\doctors\\profile-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\doctors\\profile-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\hero.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\hero.png",
       "PackagePath": "staticwebassets\\assets\\images\\hero.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-dark-rtl.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-dark-rtl.png",
       "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-dark-rtl.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-dark.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-dark.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-light-rtl.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-light-rtl.png",
       "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-light-rtl.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-light.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\landing-light.png",
       "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-light.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\light-dash.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\layouts\\light-dash.png",
       "PackagePath": "staticwebassets\\assets\\images\\layouts\\light-dash.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-dark.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-icon.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-light.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\logo-light.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\american.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\american.png",
       "PackagePath": "staticwebassets\\assets\\images\\payment\\american.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\discover.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\discover.png",
       "PackagePath": "staticwebassets\\assets\\images\\payment\\discover.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\mastercard.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\mastercard.png",
       "PackagePath": "staticwebassets\\assets\\images\\payment\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\rupay.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\payment\\rupay.png",
       "PackagePath": "staticwebassets\\assets\\images\\payment\\rupay.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cancer.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cancer.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cancer.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cough.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cough.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cough.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cta.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\cta.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cta.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\delivery.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\delivery.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\delivery.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\diabetes.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\diabetes.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\diabetes.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\doctor.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\doctor.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\doctor.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\download.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\download.png",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\download.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\heart.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\heart.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\heart.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\pain.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\pain.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\pain.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\sexual.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\sexual.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\sexual.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\01.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\02.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\03.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\04.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\ashwagandha.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\ashwagandha.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\ashwagandha.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\beby-products.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\beby-products.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\beby-products.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\diabend.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\diabend.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\diabend.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\facewash.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\facewash.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\facewash.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\handwash.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\handwash.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\handwash.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\herbal-care.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\herbal-care.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\herbal-care.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\kidney-tray.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\kidney-tray.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\kidney-tray.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\masks.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\masks.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\masks.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medical-equptment.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medical-equptment.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medical-equptment.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medicine.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medicine.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medicine.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medigrip.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\medigrip.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medigrip.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\nicotex.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\nicotex.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\nicotex.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\praganews.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\praganews.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\praganews.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\pulse-oximeter.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\pulse-oximeter.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\pulse-oximeter.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\sanitizer.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\sanitizer.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\sanitizer.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\smoking-habit.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\smoking-habit.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\smoking-habit.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\stethoscope.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\stethoscope.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\stethoscope.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\thermometer.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\shop\\thermometer.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\thermometer.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\skin.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\skin.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\skin.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\weight.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\pharmacy\\weight.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\weight.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\subscribe.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\images\\subscribe.png",
       "PackagePath": "staticwebassets\\assets\\images\\subscribe.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\admin-apexchart.init.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\admin-apexchart.init.js",
       "PackagePath": "staticwebassets\\assets\\js\\admin-apexchart.init.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\app.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\app.js",
       "PackagePath": "staticwebassets\\assets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\ckeditor.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\ckeditor.js",
       "PackagePath": "staticwebassets\\assets\\js\\ckeditor.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\contact.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\contact.js",
       "PackagePath": "staticwebassets\\assets\\js\\contact.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\doctor-apexchart.init.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\doctor-apexchart.init.js",
       "PackagePath": "staticwebassets\\assets\\js\\doctor-apexchart.init.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\easy_background.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\easy_background.js",
       "PackagePath": "staticwebassets\\assets\\js\\easy_background.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\fullcalendar.init.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\fullcalendar.init.js",
       "PackagePath": "staticwebassets\\assets\\js\\fullcalendar.init.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\patient-apexchart.init.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\patient-apexchart.init.js",
       "PackagePath": "staticwebassets\\assets\\js\\patient-apexchart.init.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\plugins.init.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\js\\plugins.init.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins.init.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\@iconscout\\unicons\\css\\line.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\@iconscout\\unicons\\css\\line.css",
       "PackagePath": "staticwebassets\\assets\\libs\\@iconscout\\unicons\\css\\line.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\apexcharts\\apexcharts.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\apexcharts\\apexcharts.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\apexcharts\\apexcharts.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\feather-icons\\feather.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\feather-icons\\feather.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\feather-icons\\feather.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\locales-all.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\locales-all.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\locales-all.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\main.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\main.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\main.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\main.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\fullcalendar\\main.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\main.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\js-datepicker\\datepicker.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\js-datepicker\\datepicker.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\js-datepicker\\datepicker.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\js-datepicker\\datepicker.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\js-datepicker\\datepicker.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\js-datepicker\\datepicker.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicon.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicon.css",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicon.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.eot",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.eot",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicondf6d.eot"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.svg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.svg",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicondf6d.svg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.ttf",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.ttf",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicondf6d.ttf"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff2",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff2",
       "PackagePath": "staticwebassets\\assets\\libs\\remixicon\\fonts\\remixicondf6d.woff2"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tiny-slider\\min\\tiny-slider.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tiny-slider\\min\\tiny-slider.js",
       "PackagePath": "staticwebassets\\assets\\libs\\tiny-slider\\min\\tiny-slider.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tiny-slider\\tiny-slider.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tiny-slider\\tiny-slider.css",
       "PackagePath": "staticwebassets\\assets\\libs\\tiny-slider\\tiny-slider.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tobii\\css\\tobii.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tobii\\css\\tobii.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\tobii\\css\\tobii.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tobii\\js\\tobii.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\assets\\libs\\tobii\\js\\tobii.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\tobii\\js\\tobii.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\css\\morris.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\css\\morris.css",
       "PackagePath": "staticwebassets\\manage\\charts\\css\\morris.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\jquery.flot.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\jquery.flot.min.js",
       "PackagePath": "staticwebassets\\manage\\charts\\js\\jquery.flot.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\jquery.flot.time.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\jquery.flot.time.min.js",
       "PackagePath": "staticwebassets\\manage\\charts\\js\\jquery.flot.time.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\morris.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\morris.min.js",
       "PackagePath": "staticwebassets\\manage\\charts\\js\\morris.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\raphael-min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\charts\\js\\raphael-min.js",
       "PackagePath": "staticwebassets\\manage\\charts\\js\\raphael-min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\animate.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\animate.css",
       "PackagePath": "staticwebassets\\manage\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\manage\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\manage\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\jquery-jvectormap.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\jquery-jvectormap.css",
       "PackagePath": "staticwebassets\\manage\\css\\jquery-jvectormap.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\red.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\red.css",
       "PackagePath": "staticwebassets\\manage\\css\\red.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\responsive.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\responsive.css",
       "PackagePath": "staticwebassets\\manage\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\styles.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\styles.css",
       "PackagePath": "staticwebassets\\manage\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\themify-icons.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\manage\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\manage\\datatable\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\manage\\datatable\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\datatable\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\manage\\datatable\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.html",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.html",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfont3e6e.html"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\manage\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.eot",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.eot",
       "PackagePath": "staticwebassets\\manage\\fonts\\themify9f24.eot"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.svg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.svg",
       "PackagePath": "staticwebassets\\manage\\fonts\\themify9f24.svg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.ttf",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.ttf",
       "PackagePath": "staticwebassets\\manage\\fonts\\themify9f24.ttf"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.woff",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themify9f24.woff",
       "PackagePath": "staticwebassets\\manage\\fonts\\themify9f24.woff"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themifyd41d.eot",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\fonts\\themifyd41d.eot",
       "PackagePath": "staticwebassets\\manage\\fonts\\themifyd41d.eot"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\card-1.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\card-1.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\card-1.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\card-2.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\card-2.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\card-2.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\doctor.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\doctor.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\doctor.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\fav.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\fav.png",
       "PackagePath": "staticwebassets\\manage\\images\\fav.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\logo-dark.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\manage\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\logo.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\logo.png",
       "PackagePath": "staticwebassets\\manage\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide1.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide1.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\slide1.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide2.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide2.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\slide2.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide3.jpg",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\slide3.jpg",
       "PackagePath": "staticwebassets\\manage\\images\\slide3.jpg"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user1.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user1.png",
       "PackagePath": "staticwebassets\\manage\\images\\user1.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user2.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user2.png",
       "PackagePath": "staticwebassets\\manage\\images\\user2.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user3.png",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\images\\user3.png",
       "PackagePath": "staticwebassets\\manage\\images\\user3.png"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\manage\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-datatables.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-datatables.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom-datatables.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-flot.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-flot.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom-flot.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-gmap.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-gmap.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom-gmap.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-morris.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-morris.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom-morris.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-vector.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom-vector.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom-vector.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\custom.js",
       "PackagePath": "staticwebassets\\manage\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-3.2.1.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\manage\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-jvectormap-world-mill.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-jvectormap-world-mill.js",
       "PackagePath": "staticwebassets\\manage\\js\\jquery-jvectormap-world-mill.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-jvectormap.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery-jvectormap.min.js",
       "PackagePath": "staticwebassets\\manage\\js\\jquery-jvectormap.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery.vmap.india.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery.vmap.india.js",
       "PackagePath": "staticwebassets\\manage\\js\\jquery.vmap.india.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery.vmap.usa.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\jquery.vmap.usa.js",
       "PackagePath": "staticwebassets\\manage\\js\\jquery.vmap.usa.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\main.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\main.js",
       "PackagePath": "staticwebassets\\manage\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\modernizr.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\modernizr.min.js",
       "PackagePath": "staticwebassets\\manage\\js\\modernizr.min.js"
     },
     {
-      "Id": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\popper.min.js",
+      "Id": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\wwwroot\\manage\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\manage\\js\\popper.min.js"
     },
     {

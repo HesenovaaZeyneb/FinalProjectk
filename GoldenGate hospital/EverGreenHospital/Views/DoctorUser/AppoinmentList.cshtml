@@ -45,10 +45,10 @@
 
                     <ul class="list-unstyled sidebar-nav mb-0">
                         <li class="navbar-item"><a asp-action="Dashboard" asp-controller="DoctorUser" class="navbar-link"><i class="ri-airplay-line align-middle navbar-icon"></i> Dashboard</a></li>
-                        <li class="navbar-item"><a href="doctor-schedule.html" class="navbar-link"><i class="ri-timer-line align-middle navbar-icon"></i> Schedule Timing</a></li>
+                    
                         <li class="navbar-item"><a asp-action="Profile" asp-controller="DoctorUser" asp-route-id="@Model.UserId" class="navbar-link"><i class="ri-user-line align-middle navbar-icon"></i> Profile</a></li>
                         <li class="navbar-item"><a href="doctor-profile-setting.html" class="navbar-link"><i class="ri-user-settings-line align-middle navbar-icon"></i> Profile Settings</a></li>
-                        <li class="navbar-item"><a href="doctor-chat.html" class="navbar-link"><i class="ri-chat-voice-line align-middle navbar-icon"></i> Chat</a></li>
+                       
                         <li class="navbar-item"><a asp-action="Logout" asp-controller="Account" class="navbar-link"><i class="ri-login-circle-line align-middle navbar-icon"></i> Logout</a></li>
 
                     </ul>
@@ -102,7 +102,8 @@
                                                 </a>
                                             </td>
                                             <td class="p-3">@item.Comment</td>
-                                           
+                                            <td>  <a asp-action="DeleteAppointment" asp-controller="PatientUser" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a></td>
+                                          
                                         </tr>
                                     }
 

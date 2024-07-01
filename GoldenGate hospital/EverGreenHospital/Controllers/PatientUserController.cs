@@ -120,6 +120,13 @@ namespace EverGreenHospital.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Profile), "PatientUser");
         }
+        public async Task< IActionResult> DeleteAppointment(int id)
+        {
+            var oldappointment= await _context.Appointments.Include(x => x.Department).ThenInclude(x => x.Doctors).FirstOrDefaultAsync(x=>x.Id==id);
+            _context.Appointments.Remove(oldappointment);
+         await   _context.SaveChangesAsync(true);
+			return RedirectToAction(nameof(Profile), "PatientUser");
+		}
 
     }
 }

@@ -99,7 +99,9 @@
 												<p class="text-muted mb-0 text-truncate small">@item.Comment</p>
 											</div>
 											<span class="mb-0">@item.VisitDate</span>
-
+											<div>
+												<a asp-action="DeleteAppointment" asp-controller="PatientUser" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+											</div>
 										</div>
 									}
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evergreen_Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d945cc6a77c00b6179726cc760a682fc3c72b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e32a4e4098531a7c2c410feceb3a92838d9ee10")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evergreen_Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evergreen_Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
