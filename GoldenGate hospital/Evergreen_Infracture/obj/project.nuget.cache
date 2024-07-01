@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zM0N+y0qp8ATGSGbnvDES/o4/EJDUUspeLk+bsZNoQPR/fNmMrNfmOTZqcX+d8fmH6wMfAUnjy1TsaUk7I575w==",
+  "dgSpecHash": "diI1+CTbnPAr9buOM3icL637JHnhkdnI7U5EGSGW3B/SAxVMpgcdoG6tmyLtczx7K3OgYP369NUddNNreRXTrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj",
+  "projectFilePath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UserHome\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\UserHome\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

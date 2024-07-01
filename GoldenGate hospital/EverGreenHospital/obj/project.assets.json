@@ -8388,11 +8388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
+      "projectUniqueName": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
       "projectName": "EverGreenHospital",
-      "projectPath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
+      "projectPath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
       "packagesPath": "C:\\Users\\UserHome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\obj\\",
+      "outputPath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8414,11 +8414,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj": {
-              "projectPath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj"
+            "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj": {
+              "projectPath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Infracture\\Evergreen_Infracture.csproj"
             },
-            "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\Evergreen_Persistence\\Evergreen_Persistence.csproj": {
-              "projectPath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\Evergreen_Persistence\\Evergreen_Persistence.csproj"
+            "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Evergreen_Persistence.csproj": {
+              "projectPath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\Evergreen_Persistence\\Evergreen_Persistence.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjF4BJgiwCztIp6VzTdrgiBEFS7y9pWHHkI/nr1Gm+HNG1BNhx3dGACc48iaymdokq6sWazmhNRDtj46JhZAIg==",
+  "dgSpecHash": "dS4kW0Ht6thVVHWBboLqLzdl8xCDpKlVtyDheZup1x75pBCjBm6xjwNFMbGXVjsHJYQA9BGrgF1qpfXSNP46Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UserHome\\Desktop\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
+  "projectFilePath": "C:\\Users\\UserHome\\Desktop\\FinalProjectk\\GoldenGate hospital\\EverGreenHospital\\EverGreenHospital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UserHome\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\UserHome\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
