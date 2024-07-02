@@ -1,9 +1,9 @@
 ﻿@using Evergreen_Persistence.Concretes.Setting
 @inject LayoutServicee layoutservice
 @{
-    Dictionary<string, string> setting = await layoutservice.GetSettings();
-     List<BasketItemVm> basketvm = await layoutservice.GetBasketItems();
-  
+	Dictionary<string, string> setting = await layoutservice.GetSettings();
+	List<BasketItemVm> basketvm = await layoutservice.GetBasketItems();
+
 }
 <!doctype html>
 <html lang="en" dir="ltr">
@@ -11,517 +11,534 @@
 
 <!-- Mirrored from shreethemes.in/doctris/layouts/landing/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jun 2024 09:41:32 GMT -->
 <head>
-    <meta charset="utf-8" />
-    <title>Doctris - Doctor Appointment Booking System</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Premium Bootstrap 5 Landing Page Template" />
-    <meta name="keywords" content="Appointment, Booking, System, Dashboard, Health" />
-    <meta name="author" content="Shreethemes" />
-    <meta name="email" content="support@shreethemes.in" />
-    <meta name="website" content="https://shreethemes.in/" />
-    <meta name="Version" content="v1.4.0" />
-    <!-- favicon -->
-    <link rel="shortcut icon" href="https://shreethemes.in/doctris/layouts/assets/images/favicon.ico">
+	<meta charset="utf-8" />
+	<title>Doctris - Doctor Appointment Booking System</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Premium Bootstrap 5 Landing Page Template" />
+	<meta name="keywords" content="Appointment, Booking, System, Dashboard, Health" />
+	<meta name="author" content="Shreethemes" />
+	<meta name="email" content="support@shreethemes.in" />
+	<meta name="website" content="https://shreethemes.in/" />
+	<meta name="Version" content="v1.4.0" />
+	<!-- favicon -->
+	<link rel="shortcut icon" href="https://shreethemes.in/doctris/layouts/assets/images/favicon.ico">
 
-    <!-- Css -->
-    <link href="~/assets/libs/tiny-slider/tiny-slider.css" rel="stylesheet">
-    <link href="~/assets/libs/tobii/css/tobii.min.css" rel="stylesheet">
-    <!-- Bootstrap Css -->
-    <link href="~/assets/css/bootstrap.min.css" class="theme-opt" rel="stylesheet" type="text/css" />
-    <!-- Icons Css -->
-    <link href="~/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-    <link href="~/assets/libs/remixicon/fonts/remixicon.css" rel="stylesheet" type="text/css" />
-    <link href="~/assets/libs/%40iconscout/unicons/css/line.css" type="text/css" rel="stylesheet" />
-    <!-- Style Css-->
-    <link href="~/assets/css/style.min.css" class="theme-opt" rel="stylesheet" type="text/css" />
-    @RenderSection("Styles", required: false)
+	<!-- Css -->
+	<link href="~/assets/libs/tiny-slider/tiny-slider.css" rel="stylesheet">
+	<link href="~/assets/libs/tobii/css/tobii.min.css" rel="stylesheet">
+	<!-- Bootstrap Css -->
+	<link href="~/assets/css/bootstrap.min.css" class="theme-opt" rel="stylesheet" type="text/css" />
+	<!-- Icons Css -->
+	<link href="~/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+	<link href="~/assets/libs/remixicon/fonts/remixicon.css" rel="stylesheet" type="text/css" />
+	<link href="~/assets/libs/%40iconscout/unicons/css/line.css" type="text/css" rel="stylesheet" />
+	<!-- Style Css-->
+	<link href="~/assets/css/style.min.css" class="theme-opt" rel="stylesheet" type="text/css" />
+	@RenderSection("Styles", required: false)
 </head>
 
 <body>
-    <!-- Loader -->
-    <!-- <div id="preloader">
-        <div id="status">
-            <div class="spinner">
-                <div class="double-bounce1"></div>
-                <div class="double-bounce2"></div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Loader -->
-    <!-- Navbar STart -->
-    <header id="topnav" class="navigation sticky">
-        <div class="container">
-            <!-- Logo container-->
-            <div>
-                <a class="logo" asp-action="Index" asp-controller="Home">
-                    <span class="logo-light-mode">
-                        <img src="~/Upload/Homephoto/12-removebg-preview.png" class="l-dark" height="22" alt="">
-                        <img height="80" width="80"  src="~/Upload/Homephoto/12-removebg-preview.png" class="l-light" height="22" alt="">
-                    </span>
-                    <img src="~/assets/images/logo-light.png" height="22" class="logo-dark-mode" alt="">
-                </a>
-            </div>
-            <!-- End Logo container-->
-            <!-- Start Mobile Toggle -->
-            <div class="menu-extras">
-                <div class="menu-item">
-                    <!-- Mobile menu toggle-->
-                    <a class="navbar-toggle" id="isToggle" onclick="toggleMenu()">
-                        <div class="lines">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </a>
-                    <!-- End mobile menu toggle-->
-                </div>
-            </div>
-            <!-- End Mobile Toggle -->
-            <!-- Start Dropdown -->
-            <ul class="dropdowns list-inline mb-0">              
+	<!-- Loader -->
+	<!-- <div id="preloader">
+		<div id="status">
+			<div class="spinner">
+				<div class="double-bounce1"></div>
+				<div class="double-bounce2"></div>
+			</div>
+		</div>
+	</div> -->
+	<!-- Loader -->
+	<!-- Navbar STart -->
+	<header id="topnav" class="navigation sticky">
+		<div class="container">
+			<!-- Logo container-->
+			<div>
+				<a class="logo" asp-action="Index" asp-controller="Home">
+					<span class="logo-light-mode">
+						<img src="~/Upload/Homephoto/12-removebg-preview.png" class="l-dark" height="22" alt="">
+						<img height="80" width="80" src="~/Upload/Homephoto/12-removebg-preview.png" class="l-light" height="22" alt="">
+					</span>
+					<img src="~/assets/images/logo-light.png" height="22" class="logo-dark-mode" alt="">
+				</a>
+			</div>
+			<!-- End Logo container-->
+			<!-- Start Mobile Toggle -->
+			<div class="menu-extras">
+				<div class="menu-item">
+					<!-- Mobile menu toggle-->
+					<a class="navbar-toggle" id="isToggle" onclick="toggleMenu()">
+						<div class="lines">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</a>
+					<!-- End mobile menu toggle-->
+				</div>
+			</div>
+			<!-- End Mobile Toggle -->
+			<!-- Start Dropdown -->
+			<ul class="dropdowns list-inline mb-0">
 
-              @*   <li class="list-inline-item mb-0 ms-1">
-                    <a href="javascript:void(0)" class="btn btn-icon btn-pills btn-primary" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">
-                        @Html.Raw(@setting["Search"])
-                    </a>
-                </li> *@
+				@*   <li class="list-inline-item mb-0 ms-1">
+				<a href="javascript:void(0)" class="btn btn-icon btn-pills btn-primary" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">
+				@Html.Raw(@setting["Search"])
+				</a>
+				</li> *@
+				<li class="dropdown d-none d-lg-block">
+					<button class="btn btn-secondary dropdown-toggle ht-btn p-0"
+							type="button"
+							id="settingButton"
+							data-bs-toggle="dropdown"
+							aria-label="setting"
+							aria-expanded="false">
 
-                @if (User.Identity.IsAuthenticated)
-                {
-                    if(User.IsInRole("Patient"))
-                    {
-                    <li class="list-inline-item mb-0 ms-1">
-                        <div class="dropdown dropdown-primary">
-                                <button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
-                                        <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
-                                    </svg>
-                                </button>
-                            <div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
-                                <a class="dropdown-item d-flex align-items-center text-dark" asp-action="Profile" asp-controller="PatientUser">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
-                                            <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
-                                        </svg>
-                                    <div class="flex-1 ms-2">
-                                        <span class="d-block mb-1">@User.Identity.Name</span>
-                                        <small class="text-muted">...</small>
-                                    </div>
-                                    <div >
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+							<path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+						</svg>
+					</button>
+					<ul class="dropdown-menu"
+						aria-labelledby="settingButton">
 
-                                    </div>
-                                </a>
-                                    <a class="dropdown-item text-dark" asp-action="MyAccount" asp-controller="Account">
-                                        <span class="mb-0 d-inline-block me-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
-                                                <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1z" />
-                                            </svg>
-                                        </span> My Account
-                                    </a>
-                                    <a class="dropdown-item text-dark" asp-action="OnlineAppointment" asp-controller="PatientUser">
-                                        <span class="mb-0 d-inline-block me-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-vcard-fill" viewBox="0 0 16 16">
-                                                <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm9 1.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1h-4a.5.5 0 0 0-.5.5M9 8a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1h-4A.5.5 0 0 0 9 8m1 2.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 0-1h-3a.5.5 0 0 0-.5.5m-1 2C9 10.567 7.21 9 5 9c-2.086 0-3.8 1.398-3.984 3.181A1 1 0 0 0 2 13h6.96q.04-.245.04-.5M7 6a2 2 0 1 0-4 0 2 2 0 0 0 4 0" />
-                                            </svg>
-                                        </span> Online Appointment
-                                    </a>
-                                <div class="dropdown-divider border-top"></div>
-                                    <a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
-                                        <span class="mb-0 d-inline-block me-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
-                                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
-                                                <path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
-                                            </svg>
-                                        </span> Logout
-                                    </a>
-                            </div>
-                        </div>
-                        </li>
-                    }
-                    else if(User.IsInRole("Doctor"))
-                    {
-                        <li class="list-inline-item mb-0 ms-1">
-                            <div class="dropdown dropdown-primary">
-                                <button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="~/Upload/Doctor/doctor-removebg-preview.png" class="avatar avatar-ex-small rounded-circle" alt=""></button>
-                                <div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
-                                    <a class="dropdown-item d-flex align-items-center text-dark" asp-action="Dashboard" asp-controller="DoctorUser">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
-                                            <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
-                                        </svg>
-                                        <div class="flex-1 ms-2">
-                                            <span class="d-block mb-1">@User.Identity.Name</span>
-                                            <small class="text-muted">...</small>
-                                        </div>
-                                        <div>
-                                        </div>
-                                    </a>
+				@if (User.Identity.IsAuthenticated)
+				{
+					if (User.IsInRole("Patient"))
+					{
+						<li class="list-inline-item mb-0 ms-1">
+							<div class="dropdown dropdown-primary">
+								<button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+										<path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
+									</svg>
+								</button>
+								<div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
+									<a class="dropdown-item d-flex align-items-center text-dark" asp-action="Profile" asp-controller="PatientUser">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+											<path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
+										</svg>
+										<div class="flex-1 ms-2">
+											<span class="d-block mb-1">@User.Identity.Name</span>
+											<small class="text-muted">...</small>
+										</div>
+										<div>
+										</div>
+									</a>
+									<a class="dropdown-item text-dark" asp-action="MyAccount" asp-controller="Account">
+										<span class="mb-0 d-inline-block me-1">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
+												<path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1z" />
+											</svg>
+										</span> My Account
+									</a>
+									<a class="dropdown-item text-dark" asp-action="OnlineAppointment" asp-controller="PatientUser">
+										<span class="mb-0 d-inline-block me-1">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-vcard-fill" viewBox="0 0 16 16">
+												<path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm9 1.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1h-4a.5.5 0 0 0-.5.5M9 8a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1h-4A.5.5 0 0 0 9 8m1 2.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 0-1h-3a.5.5 0 0 0-.5.5m-1 2C9 10.567 7.21 9 5 9c-2.086 0-3.8 1.398-3.984 3.181A1 1 0 0 0 2 13h6.96q.04-.245.04-.5M7 6a2 2 0 1 0-4 0 2 2 0 0 0 4 0" />
+											</svg>
+										</span> Online Appointment
+									</a>
+									<div class="dropdown-divider border-top"></div>
+									<a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
+										<span class="mb-0 d-inline-block me-1">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
+												<path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
+												<path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
+											</svg>
+										</span> Logout
+									</a>
+								</div>
+							</div>
+						</li>
+					}
+					else if (User.IsInRole("Doctor"))
+					{
+						<li class="list-inline-item mb-0 ms-1">
+							<div class="dropdown dropdown-primary">
+								<button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="~/Upload/Doctor/doctor-removebg-preview.png" class="avatar avatar-ex-small rounded-circle" alt=""></button>
+								<div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
+									<a class="dropdown-item d-flex align-items-center text-dark" asp-action="Dashboard" asp-controller="DoctorUser">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+											<path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
+										</svg>
+										<div class="flex-1 ms-2">
+											<span class="d-block mb-1">@User.Identity.Name</span>
+											<small class="text-muted">...</small>
+										</div>
+										<div>
+										</div>
+									</a>
 
-                               
-                                    <div class="dropdown-divider border-top"></div>
-                                    <a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
-                                        <span class="mb-0 d-inline-block me-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
-                                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
-                                                <path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
-                                            </svg>
-                                        </span> Logout
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
 
-                    }
-                    else
-                    {
-                        <li class="list-inline-item mb-0 ms-1">
-                            <div class="dropdown dropdown-primary">
-                                <button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-lock" viewBox="0 0 16 16">
-                                        <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5v-1a2 2 0 0 1 .01-.2 4.49 4.49 0 0 1 1.534-3.693Q8.844 9.002 8 9c-5 0-6 3-6 4m7 0a1 1 0 0 1 1-1v-1a2 2 0 1 1 4 0v1a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zm3-3a1 1 0 0 0-1 1v1h2v-1a1 1 0 0 0-1-1" />
-                                    </svg>
-                                </button>
-                                <div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
-                                    <a class="dropdown-item d-flex align-items-center text-dark" asp-action="Index" asp-controller="Manage">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-lock" viewBox="0 0 16 16">
-                                            <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5v-1a2 2 0 0 1 .01-.2 4.49 4.49 0 0 1 1.534-3.693Q8.844 9.002 8 9c-5 0-6 3-6 4m7 0a1 1 0 0 1 1-1v-1a2 2 0 1 1 4 0v1a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zm3-3a1 1 0 0 0-1 1v1h2v-1a1 1 0 0 0-1-1" />
-                                        </svg>
-                                        <div class="flex-1 ms-2">
-                                            <span class="d-block mb-1">@User.Identity.Name</span>
-                                            <small class="text-muted">...</small>
-                                        </div>
-                                        <div>
-                                        </div>
-                                    </a>                                   
-                                    <div class="dropdown-divider border-top"></div>
-                                    <a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
-                                        <span class="mb-0 d-inline-block me-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
-                                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
-                                                <path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
-                                            </svg>
-                                        </span> Logout
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                    }
-                }
-                else
-                {
+									<div class="dropdown-divider border-top"></div>
+									<a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
+										<span class="mb-0 d-inline-block me-1">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
+												<path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
+												<path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
+											</svg>
+										</span> Logout
+									</a>
+								</div>
+							</div>
+						</li>
 
-                    <a class="text-white " asp-action="Login" asp-controller="Account" style=" margin-right: 63px;"> LOGIN</a>
-                    <a class="text-white " asp-action="Register" asp-controller="Account" style=" margin-right: 55px;"> SIGNUP</a>
+					}
+					else
+					{
+						<li class="list-inline-item mb-0 ms-1">
+							<div class="dropdown dropdown-primary">
+								<button type="button" class="btn btn-pills btn-soft-primary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-lock" viewBox="0 0 16 16">
+										<path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5v-1a2 2 0 0 1 .01-.2 4.49 4.49 0 0 1 1.534-3.693Q8.844 9.002 8 9c-5 0-6 3-6 4m7 0a1 1 0 0 1 1-1v-1a2 2 0 1 1 4 0v1a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zm3-3a1 1 0 0 0-1 1v1h2v-1a1 1 0 0 0-1-1" />
+									</svg>
+								</button>
+								<div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
+									<a class="dropdown-item d-flex align-items-center text-dark" asp-action="Index" asp-controller="Manage">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-lock" viewBox="0 0 16 16">
+											<path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5v-1a2 2 0 0 1 .01-.2 4.49 4.49 0 0 1 1.534-3.693Q8.844 9.002 8 9c-5 0-6 3-6 4m7 0a1 1 0 0 1 1-1v-1a2 2 0 1 1 4 0v1a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zm3-3a1 1 0 0 0-1 1v1h2v-1a1 1 0 0 0-1-1" />
+										</svg>
+										<div class="flex-1 ms-2">
+											<span class="d-block mb-1">@User.Identity.Name</span>
+											<small class="text-muted">...</small>
+										</div>
+										<div>
+										</div>
+									</a>
+									<div class="dropdown-divider border-top"></div>
+									<a class="dropdown-item text-dark" asp-action="Logout" asp-controller="Account">
+										<span class="mb-0 d-inline-block me-1">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-dash" viewBox="0 0 16 16">
+												<path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1m0-7a3 3 0 1 1-6 0 3 3 0 0 1 6 0M8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
+												<path d="M8.256 14a4.5 4.5 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10q.39 0 .74.025c.226-.341.496-.65.804-.918Q8.844 9.002 8 9c-5 0-6 3-6 4s1 1 1 1z" />
+											</svg>
+										</span> Logout
+									</a>
+								</div>
+							</div>
+						</li>
+
+					}
+				}
+				else
+				{
+
+							<a class=" dropdown-item" asp-action="Login" asp-controller="Account" style=" margin-right: 63px;"> LOGIN</a>
+					<a class=" dropdown-item " asp-action="Register" asp-controller="Account" style=" margin-right: 55px;"> SIGNUP</a>
+
+
+
+				}
 					
-                 
-                     
-                }
-               
-                <a asp-action="Index" asp-controller="Whistles" class="btn btn-secondary " style="margin-right: 13px;">
-                    @Html.Raw(@setting["heart"])
-                </a>
+			</ul>
+				</li>
 
-                <a asp-action="Index" asp-controller="Basket" class="btn btn-secondary " style="margin-right: -68px;">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-basket" viewBox="0 0 16 16">
-                        <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5" />
-                    </svg>
-                    <span class="menu-arrow">@basketvm.Count</span>
+				<a asp-action="Index" asp-controller="Whistles" class="btn btn-secondary " style="margin-right: 13px;">
+					@Html.Raw(@setting["heart"])
+				</a>
+
+				<a asp-action="Index" asp-controller="Basket" class="btn btn-secondary " style="margin-right: -68px;">
+					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-basket" viewBox="0 0 16 16">
+						<path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5" />
+					</svg>
+					<span class="menu-arrow">@basketvm.Count</span>
 				</a>
 			</ul>
-              
-            <!-- Start Dropdown -->
 
-            <div id="navigation">
-                <!-- Navigation Menu-->
-                <ul class="navigation-menu nav-left nav-light">
-                    <li class="has-submenu parent-menu-item">
-                        <a asp-action="Index" asp-controller="Home">Home</a>
-                       
-                    </li>
+			<!-- Start Dropdown -->
 
-                    <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Doctors</a><span class="menu-arrow"></span>
-                        <ul class="submenu">                           
-                           
-                            <li><a asp-action="Doctors" asp-controller="AllDoctors" class="sub-menu-item">Doctors Team</a></li>
-                        </ul>
-                    </li>
-                  
-                    <li class="has-submenu parent-menu-item">
-                        <a href="javascript:void(0)">Pharmacy</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                          
-                            <li><a asp-action="Shops" asp-controller="Shop" class="sub-menu-item">Shop</a></li>
-                           
-                            <li><a asp-action="Index" asp-controller="Basket" class="sub-menu-item">Shop Cart</a></li>
-                            
-                          
-                        </ul>
-                    </li>
+			<div id="navigation">
+				<!-- Navigation Menu-->
+				<ul class="navigation-menu nav-left nav-light">
+					<li class="has-submenu parent-menu-item">
+						<a asp-action="Index" asp-controller="Home">Home</a>
 
-                    <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Pages</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                            <li><a asp-action="AboutUs" asp-controller="Home" class="sub-menu-item"> About Us</a></li>
-                            <li><a asp-action="Departments" asp-controller="Department" class="sub-menu-item">Departments</a></li>
-                            
-                            <li class="has-submenu parent-menu-item">
-                                <a href="javascript:void(0)" class="menu-item"> Blogs </a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a asp-action="Blogs" asp-controller="Blogs" class="sub-menu-item">Blogs</a></li>                                  
-                                </ul>
-                            </li>
-                            <li><a asp-action="Index" asp-controller="Question" class="sub-menu-item">FAQ</a></li>
-                            <li><a asp-action="Privacy" asp-controller="Home" class="sub-menu-item">Privacy Policy</a></li>                           
-                            <li><a asp-action="Index" asp-controller="Contact" class="sub-menu-item">Contact</a></li>
-                        </ul>
-                    </li>
-                  
-                </ul><!--end navigation menu-->
-            </div><!--end navigation-->
-        </div><!--end container-->
-    </header><!--end header-->
-    <!-- Navbar End -->
-            @RenderBody()
-    <!-- Start -->
-    <footer class="">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-5 col-lg-4 mb-0 mb-md-4 pb-0 pb-md-2">
-                    <a href="#" class="logo-footer">
-                        <img src="~/assets/images/logo-light.png" height="22" alt="">
-                    </a>
-                    <p class="mt-4 me-xl-5">
-                        We are at your service with our center
-                        GoldenGate Hospital is the only center in our country that operates 24/7 with professional medical staff.
-                    </p>
-                </div><!--end col-->
+					</li>
 
-                <div class="col-xl-7 col-lg-8 col-md-12">
-                    <div class="row">
-                        <div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                            <h5 class="footer-head">Company</h5>
-                            <ul class="list-unstyled footer-list mt-4">
-                                <li>
-                                    <a asp-action="AboutUs" asp-controller="Home" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info" viewBox="0 0 16 16">
-                                            <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0" />
-                                        </svg></i> About us
-                                    </a>
-                                </li>
-                                <li>
-                                    <a asp-action="Departments" asp-controller="Department" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-journal" viewBox="0 0 16 16">
-                                            <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2" />
-                                            <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1z" />
-                                        </svg></i> Services
-                                    </a>
-                                </li>
-                                <li>
-                                    <a asp-action="Doctors" asp-controller="AllDoctors" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-kanban-fill" viewBox="0 0 16 16">
-                                            <path d="M2.5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm5 2h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1m-5 1a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1zm9-1h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1" />
-                                        </svg> Team
-                                    </a>
-                                </li>
-                              
-                                <li>
-                                    <a asp-action="Blogs" asp-controller="Blogs" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-newspaper" viewBox="0 0 16 16">
-                                            <path d="M0 2.5A1.5 1.5 0 0 1 1.5 1h11A1.5 1.5 0 0 1 14 2.5v10.528c0 .3-.05.654-.238.972h.738a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 1 1 0v9a1.5 1.5 0 0 1-1.5 1.5H1.497A1.497 1.497 0 0 1 0 13.5zM12 14c.37 0 .654-.211.853-.441.092-.106.147-.279.147-.531V2.5a.5.5 0 0 0-.5-.5h-11a.5.5 0 0 0-.5.5v11c0 .278.223.5.497.5z" />
-                                            <path d="M2 3h10v2H2zm0 3h4v3H2zm0 4h4v1H2zm0 2h4v1H2zm5-6h2v1H7zm3 0h2v1h-2zM7 8h2v1H7zm3 0h2v1h-2zm-3 2h2v1H7zm3 0h2v1h-2zm-3 2h2v1H7zm3 0h2v1h-2z" />
-                                        </svg> Blog
-                                    </a>
-                                </li>
-                                <li>
-                                    <a asp-action="Login" asp-controller="Account" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-plus" viewBox="0 0 16 16">
-                                            <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H1s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C9.516 10.68 8.289 10 6 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
-                                            <path fill-rule="evenodd" d="M13.5 5a.5.5 0 0 1 .5.5V7h1.5a.5.5 0 0 1 0 1H14v1.5a.5.5 0 0 1-1 0V8h-1.5a.5.5 0 0 1 0-1H13V5.5a.5.5 0 0 1 .5-.5" />
-                                        </svg></i> Login
-                                    </a>
-                                </li>
-                            </ul>
-                        </div><!--end col-->
+					<li class="has-submenu parent-parent-menu-item">
+						<a href="javascript:void(0)">Doctors</a><span class="menu-arrow"></span>
+						<ul class="submenu">
 
-                        <div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                            <h5 class="footer-head">Departments</h5>
-                            <ul class="list-unstyled footer-list mt-4">
-                                <li>
-                                    <a href="departments.html" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
-                                            <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z" />
-                                            <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0" />
-                                        </svg></i> Eye Care
-                                    </a>
-                                </li>
-                               
-                                <li>
-                                    <a href="departments.html" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bag-heart-fill" viewBox="0 0 16 16">
-                                            <path d="M11.5 4v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4zM8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1m0 6.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
-                                        </svg></i> Dental Care
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="departments.html" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard2-pulse" viewBox="0 0 16 16">
-                                            <path d="M9.5 0a.5.5 0 0 1 .5.5.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V2a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2v-.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5.5.5 0 0 1 .5-.5z" />
-                                            <path d="M3 2.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 0 0-1h-.5A1.5 1.5 0 0 0 2 2.5v12A1.5 1.5 0 0 0 3.5 16h9a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 12.5 1H12a.5.5 0 0 0 0 1h.5a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5z" />
-                                            <path d="M9.979 5.356a.5.5 0 0 0-.968.04L7.92 10.49l-.94-3.135a.5.5 0 0 0-.926-.08L4.69 10H4.5a.5.5 0 0 0 0 1H5a.5.5 0 0 0 .447-.276l.936-1.873 1.138 3.793a.5.5 0 0 0 .968-.04L9.58 7.51l.94 3.135A.5.5 0 0 0 11 11h.5a.5.5 0 0 0 0-1h-.128z" />
-                                        </svg></i> Orthopedic
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="departments.html" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-activity" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd" d="M6 2a.5.5 0 0 1 .47.33L10 12.036l1.53-4.208A.5.5 0 0 1 12 7.5h3.5a.5.5 0 0 1 0 1h-3.15l-1.88 5.17a.5.5 0 0 1-.94 0L6 3.964 4.47 8.171A.5.5 0 0 1 4 8.5H.5a.5.5 0 0 1 0-1h3.15l1.88-5.17A.5.5 0 0 1 6 2" />
-                                        </svg></i> Cardiology
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="departments.html" class="text-foot">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-capsule" viewBox="0 0 16 16">
-                                            <path d="M1.828 8.9 8.9 1.827a4 4 0 1 1 5.657 5.657l-7.07 7.071A4 4 0 1 1 1.827 8.9Zm9.128.771 2.893-2.893a3 3 0 1 0-4.243-4.242L6.713 5.429z" />
-                                        </svg></i> Gynecology
-                                    </a>
-                                </li>
-                     
-                            </ul>
-                        </div><!--end col-->
+							<li><a asp-action="Doctors" asp-controller="AllDoctors" class="sub-menu-item">Doctors Team</a></li>
+						</ul>
+					</li>
 
-                        <div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                            <h5 class="footer-head">Contact us</h5>
-                            <ul class="list-unstyled footer-list mt-4">
-                                <li class="d-flex align-items-center">
-                                    <i data-feather="mail" class="fea icon-sm text-foot align-middle"></i>
-                                    <a href="mailto:contact@example.com" class="text-foot ms-2">contact@example.com</a>
-                                </li>
+					<li class="has-submenu parent-menu-item">
+						<a href="javascript:void(0)">Pharmacy</a><span class="menu-arrow"></span>
+						<ul class="submenu">
 
-                                <li class="d-flex align-items-center">
-                                    <i data-feather="phone" class="fea icon-sm text-foot align-middle"></i>
-                                    <a href="tel:@setting["Phone"]" class="text-foot ms-2">@setting["Phone"]</a>
-                                </li>
+							<li><a asp-action="Shops" asp-controller="Shop" class="sub-menu-item">Shop</a></li>
 
-                                <li class="d-flex align-items-center">
-                                    <i data-feather="map-pin" class="fea icon-sm text-foot align-middle"></i>
-                                    <a href="javascript:void(0)" class="video-play-icon text-foot ms-2">@setting["Adress"]</a>
-                                </li>
-                            </ul>
+							<li><a asp-action="Index" asp-controller="Basket" class="sub-menu-item">Shop Cart</a></li>
 
-                            <ul class="list-unstyled social-icon footer-social mb-0 mt-4">
-                                <li class="list-inline-item"><a href="@setting["Facebook"]" class="rounded-pill"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                                <li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                                <li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                                <li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                            </ul><!--end icon-->
-                        </div><!--end col-->
-                    </div><!--end row-->
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
 
-        <div class="container mt-5">
-            <div class="pt-4 footer-bar">
-                <div class="row align-items-center">
-                    <div class="col-sm-6">
-                        <div class="text-sm-start text-center">
-                            <p class="mb-0"><script>document.write(new Date().getFullYear())</script> © Doctris. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
-                        </div>
-                    </div><!--end col-->
+						</ul>
+					</li>
 
-                    <div class="col-sm-6 mt-4 mt-sm-0">
-                        <ul class="list-unstyled footer-list text-sm-end text-center mb-0">
-                            <li class="list-inline-item"><a asp-action="Privacy" asp-controller="Home" class="text-foot me-2">Privacy</a></li>
-                            <li class="list-inline-item"><a asp-action="AboutUs" asp-controller="Home" class="text-foot me-2">About</a></li>
-                            <li class="list-inline-item"><a asp-action="Index" asp-controller="Contact" class="text-foot me-2">Contact</a></li>
-                        </ul>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div>
-        </div><!--end container-->
-    </footer><!--end footer-->
-    <!-- End -->
-    <!-- Back to top -->
-    <a href="#" onclick="topFunction()" id="back-to-top" class="back-to-top fs-5 rounded-pill text-center bg-primary justify-content-center align-items-center"><i data-feather="arrow-up" class="fea icon-sm"></i></a>
-    <!-- Back to top -->
-    <!-- Offcanvas Start -->
-    <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop">
-        <div class="offcanvas-body d-flex align-items-center align-items-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>Search now.....</h4>
-                            <div class="subcribe-form mt-4">
-                                <form>
-                                    <div class="mb-0">
-                                        <input type="text" id="help" name="name" class="border rounded-pill" required="" placeholder="Search">
-                                        <button type="submit" class="btn btn-pills btn-primary">Search</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </div>
-    </div>
-    <!-- Offcanvas End -->
-    <!-- Offcanvas Start -->
-    <div class="offcanvas offcanvas-end shadow border-0" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
-        <div class="offcanvas-header p-4 border-bottom">
-            <h5 id="offcanvasRightLabel" class="mb-0">
-                <img src="~/assets/images/logo-dark.png" height="22" class="light-version" alt="">
-                <img src="~/assets/images/logo-light.png" height="22" class="dark-version" alt="">
-            </h5>
-            <button type="button" class="btn-close d-flex align-items-center text-dark" data-bs-dismiss="offcanvas" aria-label="Close"><i class="uil uil-times fs-4"></i></button>
-        </div>
-        <div class="offcanvas-body p-4 px-md-5">
-            <div class="row">
-                <div class="col-12">
-                    <!-- Style switcher -->
-                    <div id="style-switcher">
-                        <div>
-                            <ul class="text-center style-switcher list-unstyled mb-0">
-                                <li class="d-grid"><a href="javascript:void(0)" class="rtl-version t-rtl-light" onclick="setTheme('style-rtl')"><img src="~/assets/images/layouts/landing-light-rtl.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">RTL Version</span></a></li>
-                                <li class="d-grid"><a href="javascript:void(0)" class="ltr-version t-ltr-light" onclick="setTheme('style')"><img src="~/assets/images/layouts/landing-light.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">LTR Version</span></a></li>
-                                <li class="d-grid"><a href="javascript:void(0)" class="dark-rtl-version t-rtl-dark" onclick="setTheme('style-dark-rtl')"><img src="~/assets/images/layouts/landing-dark-rtl.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">RTL Version</span></a></li>
-                                <li class="d-grid"><a href="javascript:void(0)" class="dark-ltr-version t-ltr-dark" onclick="setTheme('style-dark')"><img src="~/assets/images/layouts/landing-dark.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">LTR Version</span></a></li>
-                                <li class="d-grid"><a href="javascript:void(0)" class="dark-version t-dark mt-4" onclick="setTheme('style-dark')"><img src="~/assets/images/layouts/landing-dark.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Dark Version</span></a></li>
-                                <li class="d-grid"><a href="javascript:void(0)" class="light-version t-light mt-4" onclick="setTheme('style')"><img src="~/assets/images/layouts/landing-light.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Light Version</span></a></li>
-                                <li class="d-grid"><a href="https://shreethemes.in/doctris/layouts/admin/index.html" target="_blank" class="mt-4"><img src="~/assets/images/layouts/light-dash.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Admin Dashboard</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- end Style switcher -->
-                </div><!--end col-->
-            </div><!--end row-->
-        </div>
+					<li class="has-submenu parent-parent-menu-item">
+						<a href="javascript:void(0)">Pages</a><span class="menu-arrow"></span>
+						<ul class="submenu">
+							<li><a asp-action="AboutUs" asp-controller="Home" class="sub-menu-item"> About Us</a></li>
+							<li><a asp-action="Departments" asp-controller="Department" class="sub-menu-item">Departments</a></li>
 
-        <div class="offcanvas-footer p-4 border-top text-center">
-            <ul class="list-unstyled social-icon social mb-0">
-                <li class="list-inline-item mb-0"><a href="https://1.envato.market/doctris-template" target="_blank" class="rounded"><i class="uil uil-shopping-cart align-middle" title="Buy Now"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://dribbble.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-dribbble align-middle" title="dribbble"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://www.behance.net/shreethemes" target="_blank" class="rounded"><i class="uil uil-behance align-middle" title="behance"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://www.facebook.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-facebook-f align-middle" title="facebook"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://www.instagram.com/shreethemes/" target="_blank" class="rounded"><i class="uil uil-instagram align-middle" title="instagram"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://twitter.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-twitter align-middle" title="twitter"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="mailto:support@shreethemes.in" class="rounded"><i class="uil uil-envelope align-middle" title="email"></i></a></li>
-                <li class="list-inline-item mb-0"><a href="https://shreethemes.in/" target="_blank" class="rounded"><i class="uil uil-globe align-middle" title="website"></i></a></li>
-            </ul><!--end icon-->
-        </div>
-    </div>
-    <!-- Offcanvas End -->
-    <!-- Javascript -->
-    <script src="~/assets/libs/tiny-slider/min/tiny-slider.js"></script>
-    <script src="~/assets/libs/tobii/js/tobii.min.js"></script>
-    <script src="~/assets/libs/feather-icons/feather.min.js"></script>
-    <!-- JAVASCRIPT -->
-    <script src="https://kit.fontawesome.com/1259455db7.js" crossorigin="anonymous"></script>
+							<li class="has-submenu parent-menu-item">
+								<a href="javascript:void(0)" class="menu-item"> Blogs </a><span class="submenu-arrow"></span>
+								<ul class="submenu">
+									<li><a asp-action="Blogs" asp-controller="Blogs" class="sub-menu-item">Blogs</a></li>
+								</ul>
+							</li>
+							<li><a asp-action="Index" asp-controller="Question" class="sub-menu-item">FAQ</a></li>
+							<li><a asp-action="Privacy" asp-controller="Home" class="sub-menu-item">Privacy Policy</a></li>
+							<li><a asp-action="Index" asp-controller="Contact" class="sub-menu-item">Contact</a></li>
+						</ul>
+					</li>
 
-    <script src="~/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="~/assets/js/plugins.init.js"></script>
-    <script src="~/assets/js/app.js"></script>
-    @RenderSection("Scripts", required: false)
+				</ul><!--end navigation menu-->
+			</div><!--end navigation-->
+		</div><!--end container-->
+	</header><!--end header-->
+	<!-- Navbar End -->
+	@RenderBody()
+	<!-- Start -->
+	<footer class="">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-5 col-lg-4 mb-0 mb-md-4 pb-0 pb-md-2">
+					<a href="#" class="logo-footer">
+						<img src="~/assets/images/logo-light.png" height="22" alt="">
+					</a>
+					<p class="mt-4 me-xl-5">
+						We are at your service with our center
+						GoldenGate Hospital is the only center in our country that operates 24/7 with professional medical staff.
+					</p>
+				</div><!--end col-->
+
+				<div class="col-xl-7 col-lg-8 col-md-12">
+					<div class="row">
+						<div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+							<h5 class="footer-head">Company</h5>
+							<ul class="list-unstyled footer-list mt-4">
+								<li>
+									<a asp-action="AboutUs" asp-controller="Home" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info" viewBox="0 0 16 16">
+											<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0" />
+										</svg></i> About us
+									</a>
+								</li>
+								<li>
+									<a asp-action="Departments" asp-controller="Department" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-journal" viewBox="0 0 16 16">
+											<path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2" />
+											<path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1z" />
+										</svg></i> Services
+									</a>
+								</li>
+								<li>
+									<a asp-action="Doctors" asp-controller="AllDoctors" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-kanban-fill" viewBox="0 0 16 16">
+											<path d="M2.5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm5 2h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1m-5 1a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1zm9-1h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1" />
+										</svg> Team
+									</a>
+								</li>
+
+								<li>
+									<a asp-action="Blogs" asp-controller="Blogs" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-newspaper" viewBox="0 0 16 16">
+											<path d="M0 2.5A1.5 1.5 0 0 1 1.5 1h11A1.5 1.5 0 0 1 14 2.5v10.528c0 .3-.05.654-.238.972h.738a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 1 1 0v9a1.5 1.5 0 0 1-1.5 1.5H1.497A1.497 1.497 0 0 1 0 13.5zM12 14c.37 0 .654-.211.853-.441.092-.106.147-.279.147-.531V2.5a.5.5 0 0 0-.5-.5h-11a.5.5 0 0 0-.5.5v11c0 .278.223.5.497.5z" />
+											<path d="M2 3h10v2H2zm0 3h4v3H2zm0 4h4v1H2zm0 2h4v1H2zm5-6h2v1H7zm3 0h2v1h-2zM7 8h2v1H7zm3 0h2v1h-2zm-3 2h2v1H7zm3 0h2v1h-2zm-3 2h2v1H7zm3 0h2v1h-2z" />
+										</svg> Blog
+									</a>
+								</li>
+								<li>
+									<a asp-action="Login" asp-controller="Account" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-plus" viewBox="0 0 16 16">
+											<path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H1s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C9.516 10.68 8.289 10 6 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
+											<path fill-rule="evenodd" d="M13.5 5a.5.5 0 0 1 .5.5V7h1.5a.5.5 0 0 1 0 1H14v1.5a.5.5 0 0 1-1 0V8h-1.5a.5.5 0 0 1 0-1H13V5.5a.5.5 0 0 1 .5-.5" />
+										</svg></i> Login
+									</a>
+								</li>
+							</ul>
+						</div><!--end col-->
+
+						<div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+							<h5 class="footer-head">Departments</h5>
+							<ul class="list-unstyled footer-list mt-4">
+								<li>
+									<a href="departments.html" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+											<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z" />
+											<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0" />
+										</svg></i> Eye Care
+									</a>
+								</li>
+
+								<li>
+									<a href="departments.html" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bag-heart-fill" viewBox="0 0 16 16">
+											<path d="M11.5 4v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4zM8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1m0 6.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
+										</svg></i> Dental Care
+									</a>
+								</li>
+								<li>
+									<a href="departments.html" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard2-pulse" viewBox="0 0 16 16">
+											<path d="M9.5 0a.5.5 0 0 1 .5.5.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V2a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2v-.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5.5.5 0 0 1 .5-.5z" />
+											<path d="M3 2.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 0 0-1h-.5A1.5 1.5 0 0 0 2 2.5v12A1.5 1.5 0 0 0 3.5 16h9a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 12.5 1H12a.5.5 0 0 0 0 1h.5a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5z" />
+											<path d="M9.979 5.356a.5.5 0 0 0-.968.04L7.92 10.49l-.94-3.135a.5.5 0 0 0-.926-.08L4.69 10H4.5a.5.5 0 0 0 0 1H5a.5.5 0 0 0 .447-.276l.936-1.873 1.138 3.793a.5.5 0 0 0 .968-.04L9.58 7.51l.94 3.135A.5.5 0 0 0 11 11h.5a.5.5 0 0 0 0-1h-.128z" />
+										</svg></i> Orthopedic
+									</a>
+								</li>
+								<li>
+									<a href="departments.html" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-activity" viewBox="0 0 16 16">
+											<path fill-rule="evenodd" d="M6 2a.5.5 0 0 1 .47.33L10 12.036l1.53-4.208A.5.5 0 0 1 12 7.5h3.5a.5.5 0 0 1 0 1h-3.15l-1.88 5.17a.5.5 0 0 1-.94 0L6 3.964 4.47 8.171A.5.5 0 0 1 4 8.5H.5a.5.5 0 0 1 0-1h3.15l1.88-5.17A.5.5 0 0 1 6 2" />
+										</svg></i> Cardiology
+									</a>
+								</li>
+								<li>
+									<a href="departments.html" class="text-foot">
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-capsule" viewBox="0 0 16 16">
+											<path d="M1.828 8.9 8.9 1.827a4 4 0 1 1 5.657 5.657l-7.07 7.071A4 4 0 1 1 1.827 8.9Zm9.128.771 2.893-2.893a3 3 0 1 0-4.243-4.242L6.713 5.429z" />
+										</svg></i> Gynecology
+									</a>
+								</li>
+
+							</ul>
+						</div><!--end col-->
+
+						<div class="col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+							<h5 class="footer-head">Contact us</h5>
+							<ul class="list-unstyled footer-list mt-4">
+								<li class="d-flex align-items-center">
+									<i data-feather="mail" class="fea icon-sm text-foot align-middle"></i>
+									<a href="mailto:contact@example.com" class="text-foot ms-2">contact@example.com</a>
+								</li>
+
+								<li class="d-flex align-items-center">
+									<i data-feather="phone" class="fea icon-sm text-foot align-middle"></i>
+									<a href="tel:@setting["Phone"]" class="text-foot ms-2">@setting["Phone"]</a>
+								</li>
+
+								<li class="d-flex align-items-center">
+									<i data-feather="map-pin" class="fea icon-sm text-foot align-middle"></i>
+									<a href="javascript:void(0)" class="video-play-icon text-foot ms-2">@setting["Adress"]</a>
+								</li>
+							</ul>
+
+							<ul class="list-unstyled social-icon footer-social mb-0 mt-4">
+								<li class="list-inline-item"><a href="@setting["Facebook"]" class="rounded-pill"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+								<li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+								<li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
+								<li class="list-inline-item"><a href="#" class="rounded-pill"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+							</ul><!--end icon-->
+						</div><!--end col-->
+					</div><!--end row-->
+				</div><!--end col-->
+			</div><!--end row-->
+		</div><!--end container-->
+
+		<div class="container mt-5">
+			<div class="pt-4 footer-bar">
+				<div class="row align-items-center">
+					<div class="col-sm-6">
+						<div class="text-sm-start text-center">
+							<p class="mb-0"><script>document.write(new Date().getFullYear())</script> © Doctris. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+						</div>
+					</div><!--end col-->
+
+					<div class="col-sm-6 mt-4 mt-sm-0">
+						<ul class="list-unstyled footer-list text-sm-end text-center mb-0">
+							<li class="list-inline-item"><a asp-action="Privacy" asp-controller="Home" class="text-foot me-2">Privacy</a></li>
+							<li class="list-inline-item"><a asp-action="AboutUs" asp-controller="Home" class="text-foot me-2">About</a></li>
+							<li class="list-inline-item"><a asp-action="Index" asp-controller="Contact" class="text-foot me-2">Contact</a></li>
+						</ul>
+					</div><!--end col-->
+				</div><!--end row-->
+			</div>
+		</div><!--end container-->
+	</footer><!--end footer-->
+	<!-- End -->
+	<!-- Back to top -->
+	<a href="#" onclick="topFunction()" id="back-to-top" class="back-to-top fs-5 rounded-pill text-center bg-primary justify-content-center align-items-center"><i data-feather="arrow-up" class="fea icon-sm"></i></a>
+	<!-- Back to top -->
+	<!-- Offcanvas Start -->
+	<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop">
+		<div class="offcanvas-body d-flex align-items-center align-items-center">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="text-center">
+							<h4>Search now.....</h4>
+							<div class="subcribe-form mt-4">
+								<form>
+									<div class="mb-0">
+										<input type="text" id="help" name="name" class="border rounded-pill" required="" placeholder="Search">
+										<button type="submit" class="btn btn-pills btn-primary">Search</button>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div><!--end col-->
+				</div><!--end row-->
+			</div><!--end container-->
+		</div>
+	</div>
+	<!-- Offcanvas End -->
+	<!-- Offcanvas Start -->
+	<div class="offcanvas offcanvas-end shadow border-0" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+		<div class="offcanvas-header p-4 border-bottom">
+			<h5 id="offcanvasRightLabel" class="mb-0">
+				<img src="~/assets/images/logo-dark.png" height="22" class="light-version" alt="">
+				<img src="~/assets/images/logo-light.png" height="22" class="dark-version" alt="">
+			</h5>
+			<button type="button" class="btn-close d-flex align-items-center text-dark" data-bs-dismiss="offcanvas" aria-label="Close"><i class="uil uil-times fs-4"></i></button>
+		</div>
+		<div class="offcanvas-body p-4 px-md-5">
+			<div class="row">
+				<div class="col-12">
+					<!-- Style switcher -->
+					<div id="style-switcher">
+						<div>
+							<ul class="text-center style-switcher list-unstyled mb-0">
+								<li class="d-grid"><a href="javascript:void(0)" class="rtl-version t-rtl-light" onclick="setTheme('style-rtl')"><img src="~/assets/images/layouts/landing-light-rtl.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">RTL Version</span></a></li>
+								<li class="d-grid"><a href="javascript:void(0)" class="ltr-version t-ltr-light" onclick="setTheme('style')"><img src="~/assets/images/layouts/landing-light.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">LTR Version</span></a></li>
+								<li class="d-grid"><a href="javascript:void(0)" class="dark-rtl-version t-rtl-dark" onclick="setTheme('style-dark-rtl')"><img src="~/assets/images/layouts/landing-dark-rtl.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">RTL Version</span></a></li>
+								<li class="d-grid"><a href="javascript:void(0)" class="dark-ltr-version t-ltr-dark" onclick="setTheme('style-dark')"><img src="~/assets/images/layouts/landing-dark.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">LTR Version</span></a></li>
+								<li class="d-grid"><a href="javascript:void(0)" class="dark-version t-dark mt-4" onclick="setTheme('style-dark')"><img src="~/assets/images/layouts/landing-dark.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Dark Version</span></a></li>
+								<li class="d-grid"><a href="javascript:void(0)" class="light-version t-light mt-4" onclick="setTheme('style')"><img src="~/assets/images/layouts/landing-light.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Light Version</span></a></li>
+								<li class="d-grid"><a href="https://shreethemes.in/doctris/layouts/admin/index.html" target="_blank" class="mt-4"><img src="~/assets/images/layouts/light-dash.png" class="img-fluid rounded-md shadow-md d-block mx-auto" style="width: 240px;" alt=""><span class="text-dark fw-medium mt-3 d-block">Admin Dashboard</span></a></li>
+							</ul>
+						</div>
+					</div>
+					<!-- end Style switcher -->
+				</div><!--end col-->
+			</div><!--end row-->
+		</div>
+
+		<div class="offcanvas-footer p-4 border-top text-center">
+			<ul class="list-unstyled social-icon social mb-0">
+				<li class="list-inline-item mb-0"><a href="https://1.envato.market/doctris-template" target="_blank" class="rounded"><i class="uil uil-shopping-cart align-middle" title="Buy Now"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://dribbble.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-dribbble align-middle" title="dribbble"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://www.behance.net/shreethemes" target="_blank" class="rounded"><i class="uil uil-behance align-middle" title="behance"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://www.facebook.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-facebook-f align-middle" title="facebook"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://www.instagram.com/shreethemes/" target="_blank" class="rounded"><i class="uil uil-instagram align-middle" title="instagram"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://twitter.com/shreethemes" target="_blank" class="rounded"><i class="uil uil-twitter align-middle" title="twitter"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="mailto:support@shreethemes.in" class="rounded"><i class="uil uil-envelope align-middle" title="email"></i></a></li>
+				<li class="list-inline-item mb-0"><a href="https://shreethemes.in/" target="_blank" class="rounded"><i class="uil uil-globe align-middle" title="website"></i></a></li>
+			</ul><!--end icon-->
+		</div>
+	</div>
+	<!-- Offcanvas End -->
+	<!-- Javascript -->
+	<script src="~/assets/libs/tiny-slider/min/tiny-slider.js"></script>
+	<script src="~/assets/libs/tobii/js/tobii.min.js"></script>
+	<script src="~/assets/libs/feather-icons/feather.min.js"></script>
+	<!-- JAVASCRIPT -->
+	<script src="https://kit.fontawesome.com/1259455db7.js" crossorigin="anonymous"></script>
+
+	<script src="~/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="~/assets/js/plugins.init.js"></script>
+	<script src="~/assets/js/app.js"></script>
+	@RenderSection("Scripts", required: false)
 
 
 </body>
