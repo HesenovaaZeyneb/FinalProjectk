@@ -162,7 +162,7 @@ namespace EverGreenHospital.Controllers
 			var user = await _userManager.FindByEmailAsync(forgotPasswordVm.Email);
 			if (user == null)
 			{
-				return View("Error", "Home");
+				return View(user);
 			}
 			string token = await _userManager.GeneratePasswordResetTokenAsync(user);
 			string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme)!;

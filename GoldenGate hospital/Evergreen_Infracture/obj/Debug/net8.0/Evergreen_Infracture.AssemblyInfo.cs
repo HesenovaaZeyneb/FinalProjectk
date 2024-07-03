@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evergreen_Infracture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e32a4e4098531a7c2c410feceb3a92838d9ee10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06b865927297cffdf37d632201e8cb37146d275")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evergreen_Infracture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evergreen_Infracture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

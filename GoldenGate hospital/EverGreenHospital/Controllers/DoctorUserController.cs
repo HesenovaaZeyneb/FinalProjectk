@@ -49,8 +49,14 @@ namespace EverGreenHospital.Controllers
             ViewBag.Appointments = await  _context.Appointments.Include(x => x.Department).ThenInclude(x => x.Doctors).Where(x=>x.DoctorId== doctor.Id).ToListAsync();
 			return View(doctor);
 		}
+		public async Task<IActionResult> DeleteAppointment(int id)
+		{
+			var oldappointment = await _context.Appointments.Include(x => x.Department).ThenInclude(x => x.Doctors).FirstOrDefaultAsync(x => x.Id == id);
+			_context.Appointments.Remove(oldappointment);
+			await _context.SaveChangesAsync(true);
+			return RedirectToAction(nameof(Dashboard), "DoctorUser");
+		}
 
 
-		
 	}
 }

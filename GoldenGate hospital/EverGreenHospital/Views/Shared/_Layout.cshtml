@@ -85,20 +85,7 @@
 				@Html.Raw(@setting["Search"])
 				</a>
 				</li> *@
-				<li class="dropdown d-none d-lg-block">
-					<button class="btn btn-secondary dropdown-toggle ht-btn p-0"
-							type="button"
-							id="settingButton"
-							data-bs-toggle="dropdown"
-							aria-label="setting"
-							aria-expanded="false">
-
-						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
-							<path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
-						</svg>
-					</button>
-					<ul class="dropdown-menu"
-						aria-labelledby="settingButton">
+				
 
 				@if (User.Identity.IsAuthenticated)
 				{
@@ -221,16 +208,52 @@
 				}
 				else
 				{
+					@* <li class="dropdown d-none d-lg-block">
+						<button class="btn btn-secondary dropdown-toggle ht-btn p-0"
+								type="button"
+								id="settingButton"
+								data-bs-toggle="dropdown"
+								aria-label="setting"
+								aria-expanded="false">
 
+							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+								<path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+							</svg>
+						</button>
+						<ul class="dropdown-menu"
+							aria-labelledby="settingButton">
 							<a class=" dropdown-item" asp-action="Login" asp-controller="Account" style=" margin-right: 63px;"> LOGIN</a>
 					<a class=" dropdown-item " asp-action="Register" asp-controller="Account" style=" margin-right: 55px;"> SIGNUP</a>
 
-
+						</ul>
+					</li> *@
+					<li class="list-inline-item mb-0 ms-1">
+						<div class="dropdown dropdown-secondary">
+							<button type="button" class="btn btn-pills btn-secondary dropdown-toggle p-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+									<path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+								</svg>
+							</button>
+							<div class="dropdown-menu dd-menu dropdown-menu-end shadow border-0 mt-3 py-3" style="min-width: 200px;">
+								
+								<div class="dropdown-divider border-top"></div>
+								<a class="dropdown-item text-dark" asp-action="Login" asp-controller="Account">
+									<span class="mb-0 d-inline-block me-1">
+										
+									</span> Login
+								</a>
+								<a class="dropdown-item text-dark" asp-action="Register" asp-controller="Account">
+									<span class="mb-0 d-inline-block me-1">
+										
+									</span> SigUp
+								</a>
+							</div>
+						</div>
+					</li>
 
 				}
 					
-			</ul>
-				</li>
+			
 
 				<a asp-action="Index" asp-controller="Whistles" class="btn btn-secondary " style="margin-right: 13px;">
 					@Html.Raw(@setting["heart"])
