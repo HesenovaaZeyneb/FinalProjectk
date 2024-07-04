@@ -3680,6 +3680,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\c8d8478b-558f-4834-88c4-d8ce3022ac41beyin cerrahi.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\cf9ef567-a503-47a8-885b-75c6bdeddeacAnar.M..jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>EverGreenHospital</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EverGreenHospital</BasePath>
+      <RelativePath>Upload/Doctor/cf9ef567-a503-47a8-885b-75c6bdeddeacAnar.M..jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\cf9ef567-a503-47a8-885b-75c6bdeddeacAnar.M..jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\db30b3b5-a994-4e21-9eac-91736c320de3Rasul.M.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>EverGreenHospital</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EverGreenHospital</BasePath>
+      <RelativePath>Upload/Doctor/db30b3b5-a994-4e21-9eac-91736c320de3Rasul.M.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\db30b3b5-a994-4e21-9eac-91736c320de3Rasul.M.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Doctor\doctor-removebg-preview.png))">
       <SourceType>Package</SourceType>
       <SourceId>EverGreenHospital</SourceId>

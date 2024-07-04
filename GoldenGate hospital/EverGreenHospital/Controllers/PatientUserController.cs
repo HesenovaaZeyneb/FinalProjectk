@@ -32,19 +32,19 @@ namespace EverGreenHospital.Controllers
 
             }
             User user = await _userManager.FindByNameAsync(User.Identity.Name);
-            UserVm uservm = new UserVm()
-            {
-                Id = user.Id,
-                Name = user.Name,
-                Surname = user.Surname,
-                PhoneNumber = user.PhoneNumber,
-                Email = user.Email,
-                Adress = user.Adress,
-                BirthDay = (DateTime)user.BirthDay
+            //UserVm uservm = new UserVm()
+            //{
+            //    Id = user.Id,
+            //    Name = user.Name,
+            //    Surname = user.Surname,
+            //    PhoneNumber = user.PhoneNumber,
+            //    Email = user.Email,
+            //    Adress = user.Adress,
+            //    BirthDay = (DateTime)user.BirthDay
 
-            };
+            //};
             ViewBag.Appointment = await _context.Appointments.Include(x=>x.Department).ThenInclude(x=>x.Doctors).ToListAsync();
-            return View(uservm);
+            return View(user);
         }
 
         [HttpPost]
@@ -87,17 +87,7 @@ namespace EverGreenHospital.Controllers
                 return RedirectToAction("Login", "Account");
 
             }
-            //User user = await _userManager.FindByNameAsync(User.Identity.Name);
-            //UserVm uservm = new UserVm()
-            //{
-            //    Id = user.Id,
-            //    Name = user.Name,
-            //    Surname = user.Surname,
-            //    PhoneNumber = user.PhoneNumber,
-            //    Email = user.Email,
-            //    Adress= user.Adress,
-
-            //};
+            
             ViewBag.Departments = await _context.Departments.ToListAsync();
             ViewBag.Doctors = await _context.Doctors.ToListAsync();
             return View();

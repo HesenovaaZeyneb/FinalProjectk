@@ -66,6 +66,12 @@ namespace EverGreenHospital.Controllers
                 Email = registerVm.Email,     
                 DoctorId = registerVm.Role
             };
+            var user1= await _userManager.FindByEmailAsync(user.Email);
+            if (user1 != null)
+            {
+               
+                return View();
+            }
             var result= await _userManager.CreateAsync(user,registerVm.Password);
             if (!result.Succeeded)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EverGreenHospital")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06b865927297cffdf37d632201e8cb37146d275")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff3a21394ff0621f4f3be2d26c776eeef48af81")]
 [assembly: System.Reflection.AssemblyProductAttribute("EverGreenHospital")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EverGreenHospital")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
